@@ -1,4 +1,4 @@
-# political_predication
+# Political_predication
 
 
 ## Trend Prediction from Social Media
