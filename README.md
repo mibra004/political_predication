@@ -8,7 +8,7 @@ Analyze social media data using LLMs to identify trending topics over a short pe
 
 ## Data
 
-- US 2020 Policial Tweets from [https://www.kaggle.com/datasets/tunguz/united-states-political-tweets/data?select=pence_timeline.json]
+- US 2020 Policial Tweets from https://www.kaggle.com/datasets/tunguz/united-states-political-tweets/data?select=pence_timeline.json
 
 ## Result
 
