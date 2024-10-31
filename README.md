@@ -11,5 +11,7 @@ Analyze social media data using LLMs to identify trending topics over a short pe
 
 ![Trump President](trump.png)
 ![Biden President](biden.png)
+![Harris Vice President](harris.png)
+![Pence Vice President](pence.png)
 ![Sentiment President](sentiment_p.png)
 ![Sentiment Vice President](sentiment_v.png)
