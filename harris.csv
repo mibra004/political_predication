@@ -1,0 +1,299 @@
+,create_time,text,retweets,favorites,text_clean,polarity,subjectivity,sentiment_2,keywords
+0,2020-10-22 00:41:00,We're just days away from the end of the election. Help us bring it home by donating $20 today:… https://t.co/OAzXOecJyB,733,4221,days away end election help us bring home donating 20 today,0.0,0.0,neutral,election
+1,2020-10-21 23:29:52,"545 children. 
+
+This is outrageous and a stain on our national character. Families belong together. 
+https://t.co/VsimNG653X",3100,17262,545 children outrageous stain national character families belong together,-1.0,1.0,negative,other
+2,2020-10-21 22:51:39,"This is our moment to do something for our families, our communities, and our country. To protect our health care,… https://t.co/smVruYn7j1",982,5514,moment something families communities country protect health care,0.0,0.0,neutral,other
+3,2020-10-21 21:47:21,.@BarackObama knows that the election is happening right now and winning will require all of us coming together. Tu… https://t.co/uxFYEQF99W,1621,9163,barackobama knows election happening right winning require us coming together tu,0.39285714285714285,0.6428571428571428,positive,election
+4,2020-10-21 20:21:01,RT @JoeBiden: Tune in as @BarackObama sits down with community leaders in Philadelphia to talk about what’s at stake in this election. http…,4097,0,rt joebiden tune barackobama sits community leaders philadelphia talk whats stake election,-0.15555555555555559,0.2888888888888889,negative,election
+5,2020-10-21 20:14:19,Every issue we care about is on the ballot in this election. https://t.co/u5sYYRzSVC,3001,17024,every issue care ballot election,0.0,0.0,neutral,election
+6,2020-10-21 17:53:10,.@JoeBiden and I want to get your kids back to school as quickly and safely as possible. This starts with masks and… https://t.co/iSbFxBWi8a,6707,46596,joebiden want get kids back school quickly safely possible starts masks,0.1111111111111111,0.5,positive,other
+7,2020-10-21 17:52:37,"RT @JoeBiden: Justice is on the ballot.
+
+https://t.co/eoxT07uII9 https://t.co/0dg9Cg1f2i",4881,0,rt joebiden justice ballot,0.0,0.0,neutral,other
+8,2020-10-21 15:48:43,"With only 13 days to go until Election Day, I’m in Asheville, North Carolina for a “get out the vote” event. Tune i… https://t.co/51UEA2QDkn",1271,7844,13 days go election day im asheville north carolina get vote event tune,0.0,1.0,neutral,election
+9,2020-10-21 15:02:16,"How will I ever be able to top yesterday’s birthday? 
+
+A big thank you to @DonCheadle, @ChrisEvans, @MarkRuffalo,… https://t.co/nRkPJd2bDa",2750,37770,ever able top yesterdays birthday big thank doncheadle chrisevans markruffalo,0.3333333333333333,0.4083333333333334,positive,other
+10,2020-10-21 13:41:14,.@DouglasEmhoff and I made a plan to vote early by mail. What’s your plan? https://t.co/vD0MYMlMnY,4507,32236,douglasemhoff made plan vote early mail whats plan,0.1,0.3,positive,other
+11,2020-10-21 01:24:24,Wouldn’t be a birthday without a little cake—even while campaigning. https://t.co/YgDooGiKOp,4105,62841,wouldnt birthday without little cakeeven campaigning,-0.1875,0.5,negative,other
+12,2020-10-20 22:41:07,"Loved chatting with @CurlyVee to talk pupusas, politics, and our Zodiac signs. More to come soon with @BFPeroLike a… https://t.co/oTZmJdztQD",947,8242,loved chatting curlyvee talk pupusas politics zodiac signs come soon bfperolike,0.6,0.65,positive,other
+13,2020-10-20 20:06:52,"As president, @JoeBiden will restore the soul of our nation and bring decency back to the White House. But we only… https://t.co/ZPmSopRuq8",2164,10072,president joebiden restore soul nation bring decency back white house,0.0,0.0,neutral,other
+14,2020-10-20 19:39:11,My birthday wish this year? For everyone to go vote: https://t.co/MykJL0X5gt.,19359,173864,birthday wish year everyone go vote,0.0,0.0,neutral,other
+15,2020-10-20 19:37:58,"RT @JoeBiden: Two weeks from today, we’re going to beat President Trump.",60055,0,rt joebiden two weeks today going beat president trump,0.0,0.0,neutral,other
+16,2020-10-20 17:15:34,"I couldn’t let the day go by without wishing my niece, Meena, a happy birthday too! https://t.co/bioEkKE7gL",5208,89690,couldnt let day go without wishing niece meena happy birthday,1.0,1.0,positive,other
+17,2020-10-20 16:12:27,"Enjoyed sitting down with @NBA players @CJMcCollum, @spidadmitchell, and @tobias31 to discuss critical issues facin… https://t.co/LnFgxLg0Py",1144,5805,enjoyed sitting nba players cjmccollum spidadmitchell tobias31 discuss critical issues facin,0.11481481481481481,0.5962962962962963,positive,other
+18,2020-10-20 12:55:22,Reply to this tweet to wish Kamala a happy birthday! https://t.co/CTPPwg05nu,30358,251518,reply tweet wish kamala happy birthday,1.0,1.0,positive,other
+19,2020-10-20 01:50:01,Trump and Pence are doing everything they can to rip away health care for millions of Americans in a global pandemi… https://t.co/L4wfUBpufV,13221,70303,trump pence everything rip away health care millions americans global pandemi,0.0,0.0,neutral,other
+20,2020-10-19 23:34:30,Tomorrow. https://t.co/3qJsdglOtu,4549,29507,tomorrow,0.0,0.0,neutral,other
+21,2020-10-19 22:09:33,"Rain or shine, democracy waits for no one. https://t.co/DMimsHbmWO",18187,155864,rain shine democracy waits one,0.0,0.0,neutral,other
+22,2020-10-19 21:32:31,"Florida, it’s great to be back! https://t.co/eRNlu6RlFz",11748,99369,florida great back,0.4,0.375,positive,other
+23,2020-10-19 18:56:56,"As a huge Avengers and Black Panther fan, I could not be more excited for our grassroots fundraiser tomorrow with… https://t.co/fLhbEyzoh1",3436,23522,huge avengers black panther fan could excited grassroots fundraiser tomorrow,0.27708333333333335,0.6458333333333334,positive,other
+24,2020-10-19 16:01:43,"More than 219,000 Americans have died from COVID-19 and we've seen the worst economic crisis since the Great Depres… https://t.co/UZ2cADyhZn",2063,7591,americans died seen worst economic crisis since great depres,0.125,0.6125,positive,other
+25,2020-10-19 15:12:13,We the people have the power: https://t.co/MykJL0X5gt. https://t.co/5kzLNoHoBO,9782,38672,people power,0.0,0.0,neutral,other
+26,2020-10-19 13:05:41,Only 15 days until Election Day. Make a plan and vote early.,19912,161197,15 days election day make plan vote early,0.05,0.65,positive,election
+27,2020-10-19 01:58:00,The @JoeBiden-Harris plan won't increase taxes on anyone making less than $400K and asks the super wealthy and big… https://t.co/3Ue3W54JKy,19432,113331,plan wo increase taxes anyone making less 400k asks super wealthy big,0.2222222222222222,0.5777777777777778,positive,other
+28,2020-10-19 00:02:00,Many Americans aren’t sure how they’re going to pay rent at the end of the month. The Senate should be working day… https://t.co/uiEVLIFPFk,17476,93101,many americans arent sure theyre going pay rent end month senate working day,0.5,0.6944444444444444,positive,other
+29,2020-10-18 23:12:14,"RT @JoeBiden: I’ve had a rule my entire life: No matter what’s happening, no matter how important the meeting, I’ll always answer a call fr…",15337,0,rt joebiden ive rule entire life matter whats happening matter important meeting ill always answer call fr,0.2,0.8125,positive,other
+30,2020-10-18 22:02:14,"HBCUs, like Shaw University, have nurtured and challenged students for generations. I stand here today on their sho… https://t.co/rgw3FyeMw9",2114,11048,hbcus like shaw university nurtured challenged students generations stand today sho,0.0,0.0,neutral,other
+31,2020-10-18 20:05:32,"RT @DrBiden: One vote could be the difference between winning and losing a precinct.
+
+One precinct could win a state.
+
+One state could deci…",23429,0,rt drbiden one vote could difference winning losing precinct one precinct could win state one state could deci,0.65,0.575,positive,other
+32,2020-10-18 18:32:02,"Campaigning may look a little different these days, but what hasn’t changed is the American people’s determination… https://t.co/sVv77IH5Kx",5281,33707,campaigning may look little different days hasnt changed american peoples determination,-0.0625,0.3666666666666667,negative,other
+33,2020-10-18 17:02:42,RT @JoeBiden: Turns out Twitter isn’t so bad when you read tweets that aren’t from President Trump. https://t.co/ZKA2dwZQks,41011,0,rt joebiden turns twitter isnt bad read tweets arent president trump,-0.6999999999999998,0.6666666666666666,negative,other
+34,2020-10-18 13:34:20,Every single vote matters. Visit https://t.co/hLNCanGpin to lock in your plan to vote now.,8001,46946,every single vote matters visit lock plan vote,-0.07142857142857142,0.21428571428571427,negative,other
+35,2020-10-18 01:35:00,"Black Americans are dying from COVID-19 at 2x the rate of white Americans. 
+
+This pandemic has further reinforced h… https://t.co/7Ooqhv99Fe",11071,57460,black americans dying 2x rate white americans pandemic reinforced h,-0.05555555555555555,0.3111111111111111,negative,other
+36,2020-10-17 23:58:06,"RT @JoeBiden: In the middle of a pandemic, President Trump is trying to eliminate Obamacare and increase health care costs for millions.
+
+N…",14913,0,rt joebiden middle pandemic president trump trying eliminate obamacare increase health care costs millions n,0.0,0.0,neutral,other
+37,2020-10-17 22:25:26,"Last month I ran into a few @HowardU seniors when I was visiting campus. To them and all my fellow Bison, happy vir… https://t.co/f77rrW7X9b",3174,20477,last month ran howardu seniors visiting campus fellow bison happy vir,0.20000000000000004,0.3888888888888889,positive,other
+38,2020-10-17 20:22:01,"There is nothing more powerful than a determined group of women marching, protesting—and voting. Don’t wait: join w… https://t.co/aJRs797MYt",14136,87217,nothing powerful determined group women marching protestingand voting dont wait join w,0.4,0.75,positive,other
+39,2020-10-17 20:17:38,RT @JoeBiden: Promise? https://t.co/Wbl86i8uYo,42927,0,rt joebiden promise,0.0,0.0,neutral,other
+40,2020-10-17 18:13:36,"Don’t throw away your shot: vote early. 
+
+https://t.co/MykJL0X5gt https://t.co/aiBJvgXp3D",7293,36699,dont throw away shot vote early,0.1,0.3,positive,other
+41,2020-10-17 16:00:01,"My mother raised me to see what could be, unburdened by what has been. https://t.co/5sNj8MmjvZ",8097,36925,mother raised see could unburdened,0.0,0.0,neutral,other
+42,2020-10-17 14:17:39,".@DouglasEmhoff and I wish our Hindu American friends and family, and all those celebrating, a very Happy Navratri!… https://t.co/tSzat7iR0G",5744,44802,douglasemhoff wish hindu american friends family celebrating happy navratri,0.5,0.5,positive,other
+43,2020-10-17 01:27:00,Americans are suffering from a deadly pandemic and a historic economic crisis. Instead of providing relief to famil… https://t.co/IO3ewC52Y5,15960,85895,americans suffering deadly pandemic historic economic crisis instead providing relief famil,0.0,0.20000000000000004,neutral,other
+44,2020-10-16 23:46:45,Californians—and all Americans—deserve better. https://t.co/vTThtEy3W1,7434,54414,californiansand americansdeserve better,0.5,0.5,positive,other
+45,2020-10-16 21:15:05,"This is what we’re voting for. 
+https://t.co/BTb2gQr9eU",6904,26375,voting,0.0,0.0,neutral,other
+46,2020-10-16 20:52:32,RT @JoeBiden: The cast of Hamilton knows we're engaged in a battle for this nation's very soul — and this election is too important to sit…,3951,0,rt joebiden cast hamilton knows engaged battle nation soul election important sit,0.30000000000000004,0.65,positive,election
+47,2020-10-16 19:34:43,Trump and Pence want to take health care away from millions—and they have no plan to replace it with. Tune in now t… https://t.co/uq5oWBlAbq,1766,7621,trump pence want take health care away millionsand plan replace tune,0.0,0.0,neutral,other
+48,2020-10-16 17:15:34,"We are in the middle of an election. More than 20 million Americans have already voted.
+
+It is only right and fair… https://t.co/a78IqWm86H",11835,72627,middle election 20 million americans already voted right fair,0.19642857142857142,0.5089285714285714,positive,election
+49,2020-10-16 15:40:10,"RT @JoeBiden: .@JLo and @AROD –– Jill and I are deeply grateful to have your support.
+
+Thank you for stepping up and speaking out. As Jenni…",7927,0,rt joebiden jlo arod jill deeply grateful support thank stepping speaking jenni,0.0,0.4,neutral,other
+50,2020-10-16 14:12:01,"Trump has spent full-time spewing hate and division. It’s time to end the pain, end the chaos, and elect @JoeBiden. https://t.co/XpGfxpjcY3",7030,34123,trump spent spewing hate division time end pain end chaos elect joebiden,-0.033333333333333326,0.6333333333333333,negative,other
+51,2020-10-16 02:07:57,"RT @TeamJoe: The town hall might be over, but @JoeBiden is still answering questions from voters in the room. This is the kind of leader we…",11477,0,rt teamjoe town hall might joebiden still answering questions voters room kind leader,0.6,0.9,positive,other
+52,2020-10-16 01:44:36,RT @JoeBiden: We have to heal this nation. https://t.co/wD45ZGcKO2,9119,0,rt joebiden heal nation,0.0,0.0,neutral,other
+53,2020-10-16 01:34:55,.@JoeBiden will be a president for all Americans. Chip in now to help make the Biden-Harris administration a realit… https://t.co/8xRbqoSXzA,1313,6845,joebiden president americans chip help make administration realit,0.0,0.0,neutral,other
+54,2020-10-16 01:31:58,"RT @JoeBiden: We're a diverse country — and unless we are able to treat people equally, we're just never going to meet our potential.",23217,0,rt joebiden diverse country unless able treat people equally never going meet potential,0.16666666666666666,0.625,positive,other
+55,2020-10-16 01:22:03,"Under the Trump administration, LGBTQ+ rights have been under attack. We must first undo the harm of this administr… https://t.co/2A4ToybVfN",12819,75705,trump administration rights attack must first undo harm administr,0.25,0.3333333333333333,positive,other
+56,2020-10-16 00:48:36,"Mere days after the election, the Supreme Court will hear oral arguments in the Republican-led case to overturn the… https://t.co/zD6EhVaea0",3652,17917,mere days election supreme court hear oral arguments case overturn,-0.5,0.5,negative,election
+57,2020-10-16 00:42:48,"Help us power our campaign to victory. Give $5, $15, or whatever you can now: https://t.co/96YADz3bZf",718,3109,help us power campaign victory give 5 15 whatever,0.0,0.0,neutral,other
+58,2020-10-16 00:24:15,"RT @JoeBiden: The words of a president matter. And when a president doesn't wear a mask or makes fun of folks who do, it has consequences.",17704,0,rt joebiden words president matter president wear mask makes fun folks consequences,0.3,0.2,positive,other
+59,2020-10-16 00:17:29,.@JoeBiden and I believe the economy is doing well when our workers and our families are doing well. That’s why our… https://t.co/d6e1FOqEze,4452,25624,joebiden believe economy well workers families well thats,0.0,0.0,neutral,other
+60,2020-10-16 00:14:32,RT @TeamJoe: Donald Trump failed our nation with his response to COVID-19. @JoeBiden has stepped up and given us the plan for recovery we d…,939,0,rt teamjoe donald trump failed nation response joebiden stepped given us plan recovery,-0.5,0.3,negative,other
+61,2020-10-16 00:12:27,"RT @JoeBiden: We're eight months into this pandemic, and Donald Trump still doesn't have a plan to get this virus under control.
+
+I do.",10471,0,rt joebiden eight months pandemic donald trump still plan get virus control,0.0,0.0,neutral,other
+62,2020-10-16 00:09:23,"Here are the facts:
+→8M Americans infected and over 217,000 dead
+→Over 25M on unemployment
+→400,000 small businesse… https://t.co/N9IwBnM7R3",3028,11630,facts 8m americans infected dead 25m unemployment small businesse,-0.225,0.4,negative,other
+63,2020-10-15 23:51:19,"RT @JoeBiden: I’m about to step on stage for tonight’s town hall in Philadelphia, Pennsylvania. Tune in to @ABC to watch live.",9359,0,rt joebiden im step stage tonights town hall philadelphia pennsylvania tune abc watch live,0.13636363636363635,0.5,positive,other
+64,2020-10-15 23:24:24,"One word: heartless. 
+https://t.co/Vnj2NY3vX6",5340,22116,one word heartless,0.0,0.0,neutral,other
+65,2020-10-15 21:02:00,It’s been over a week since I stepped off the debate stage and gave Bruce a call. I hope to try his sister’s cookin… https://t.co/YQFnb8c0Sq,1233,11959,week since stepped debate stage gave bruce call hope try sisters cookin,0.0,0.0,neutral,other
+66,2020-10-15 19:34:01,"To all LGBTQ+ youth who are facing bullying and harassment, know that you deserve to be accepted and loved just as you are. #SpiritDay",10514,78344,youth facing bullying harassment know deserve accepted loved spiritday,0.7,0.8,positive,other
+67,2020-10-15 14:35:15,"I will be transparent with you about any test results that I do receive. In the meantime, remember: wear a mask, pr… https://t.co/LDcuIaupXM",6859,87081,transparent test results receive meantime remember wear mask pr,0.0,0.0,neutral,other
+68,2020-10-15 14:35:15,"Both the crew member and the staff member were wearing N95 masks at all points they were near me, and our doctors b… https://t.co/v0ZFS75aJy",4222,61072,crew member staff member wearing n95 masks points near doctors b,0.1,0.4,positive,other
+69,2020-10-15 14:35:15,"Late last night, I learned a non-staff flight crew member &amp; a member of my team tested positive for COVID. I wasn’t… https://t.co/Ezfw3MU1qF",11824,133639,late last night learned flight crew member member team tested positive covid wasnt,-0.024242424242424242,0.404040404040404,negative,other
+70,2020-10-15 03:24:39,Trump and his administration failed the American people. https://t.co/MbMMgRJrEo,6617,30875,trump administration failed american people,-0.25,0.15,negative,other
+71,2020-10-15 00:36:14,"RT @JoeBiden: Vote for America.
+
+https://t.co/eoxT07uII9 https://t.co/sBd51fgmln",57149,0,rt joebiden vote america,0.0,0.0,neutral,other
+72,2020-10-15 00:13:01,People are scared. They’re scared what will happen if the Supreme Court destroys the Affordable Care Act in the mid… https://t.co/dQlBboutKp,7208,42976,people scared theyre scared happen supreme court destroys affordable care act mid,0.0,0.0,neutral,other
+73,2020-10-14 23:21:00,Chief Justice John Roberts said in Shelby County v. Holder that no one doubts discrimination in voting still exists… https://t.co/FVedD2qqyp,14311,60811,chief justice john roberts said shelby county holder one doubts discrimination voting still exists,0.0,0.0,neutral,other
+74,2020-10-14 22:00:52,Amy Coney Barrett will admit that COVID-19 is infectious. She’ll admit that smoking causes cancer. But whether clim… https://t.co/YnQ9dl3W7a,21350,118917,amy coney barrett admit infectious shell admit smoking causes cancer whether clim,0.0,0.0,neutral,other
+75,2020-10-14 19:47:48,"Thank you, @theestallion, for using your voice to speak out. Black women DO deserve better. 
+
+I promise when… https://t.co/YLHkE2pUEJ",9529,59341,thank theestallion using voice speak black women deserve better promise,0.16666666666666669,0.4666666666666667,positive,other
+76,2020-10-14 19:46:28,"RT @JoeBiden: Tonight, our campaign will close our books and send in the names of our grassroots supporters for the final time. 
+
+Chip in t…",2332,0,rt joebiden tonight campaign close books send names grassroots supporters final time chip,0.0,1.0,neutral,other
+77,2020-10-14 16:48:29,Republicans know the majority of Americans support the Affordable Care Act. So what are they doing? Trying to bypas… https://t.co/SLOyDG5ghl,8833,41575,republicans know majority americans support affordable care act trying bypas,0.0,0.0,neutral,other
+78,2020-10-14 14:26:22,Today would have been George Floyd’s 47th birthday. He should still be alive today celebrating another year with hi… https://t.co/hjmO0YwCZL,22676,131061,today would george floyds 47th birthday still alive today celebrating another year hi,0.1,0.4,positive,other
+79,2020-10-14 13:27:26,RT @JoeBiden: 20 days.,27214,0,rt joebiden 20 days,0.0,0.0,neutral,other
+80,2020-10-14 01:21:01,I asked Amy Coney Barrett whether she had seen or heard statements before her nomination from Donald Trump promisin… https://t.co/oJW6p96lnO,23420,119469,asked amy coney barrett whether seen heard statements nomination donald trump promisin,0.0,0.0,neutral,other
+81,2020-10-14 00:02:24,"During her confirmation hearing, Justice Ginsburg said the right to choose was “essential to women’s equality.”
+
+We… https://t.co/ygS2ZMrCbq",16014,80506,confirmation hearing justice ginsburg said right choose essential womens equality,0.14285714285714285,0.4178571428571428,positive,other
+82,2020-10-13 21:59:02,Let’s be clear: equal justice under law is at stake with this Supreme Court nomination.,15945,92742,lets clear equal justice law stake supreme court nomination,0.05000000000000001,0.31666666666666665,positive,other
+83,2020-10-13 21:20:47,"There are only 21 days left until Election Day. Now is the time to think about when, where, and how you’re going to… https://t.co/k7GruU99D9",1266,5655,21 days left election day time think youre going,0.0,0.5,neutral,election
+84,2020-10-13 19:15:09,"My mother always used to tell me, “Kamala, you may be the first to do many things, but make sure you are not the la… https://t.co/EeudB6n9tC",3747,19686,mother always used tell kamala may first many things make sure la,0.4166666666666667,0.5740740740740741,positive,other
+85,2020-10-13 18:01:43,"RT @JoeBiden: If you live in:
+
+Kansas
+Louisiana
+Maryland
+Minnesota
+New Jersey
+Oregon
+Virginia
+Washington D.C.
+West Virginia
+
+Today is your…",9227,0,rt joebiden live kansas louisiana maryland minnesota new jersey oregon virginia washington west virginia today,0.13636363636363635,0.4772727272727273,positive,other
+86,2020-10-13 16:12:07,"Republicans want to strike down the Affordable Care Act. If they succeed, you could have to pay for mammograms, can… https://t.co/pN9G7Lq49t",15003,58957,republicans want strike affordable care act succeed could pay mammograms,-0.15555555555555559,0.2888888888888889,negative,other
+87,2020-10-13 15:32:18,"RT @JoeBiden: Three weeks from today, we’re going to make Donald Trump a one-term president.",82297,0,rt joebiden three weeks today going make donald trump president,0.0,0.0,neutral,other
+88,2020-10-13 13:19:05,"The morning after our first date, @DouglasEmhoff emailed me a list of his available dates for the next couple of mo… https://t.co/sCmUJoterZ",10541,193762,morning first date douglasemhoff emailed list available dates next couple mo,0.21666666666666667,0.24444444444444446,positive,other
+89,2020-10-13 01:22:00,"The majority of Americans believe that the next president should fill the vacant Supreme Court seat. 
+
+@JoeBiden and I stand with them.",18970,134578,majority americans believe next president fill vacant supreme court seat joebiden stand,0.0,0.0,neutral,other
+90,2020-10-13 00:03:01,Senate Republicans haven’t lifted a finger for 150 days to help the millions of Americans who are struggling to pay… https://t.co/DMXIT1revJ,23601,94718,senate republicans havent lifted finger 150 days help millions americans struggling pay,0.0,0.0,neutral,other
+91,2020-10-12 23:12:00,It’s because of @BarackObama and @JoeBiden that over 20 million Americans have gained health care coverage and peop… https://t.co/28ckUSwAyU,5301,20324,barackobama joebiden 20 million americans gained health care coverage peop,0.0,0.0,neutral,other
+92,2020-10-12 22:10:16,RT @MichiganDems: We’re in Lansing with @DouglasEmhoff for a voter mobilization event. Join us! https://t.co/K7AddHjYPg,494,0,rt michigandems lansing douglasemhoff voter mobilization event join us,0.0,0.0,neutral,other
+93,2020-10-12 21:07:10,"Here is what’s at stake with this Supreme Court nomination:
+
+Voting rights.
+Workers’ rights. 
+Consumers’ rights.
+Sa… https://t.co/NB2yvKy3oD",7928,33677,whats stake supreme court nomination voting rights workers rights consumers rights sa,0.0,0.0,neutral,other
+94,2020-10-12 21:06:37,"RT @JoeBiden: Health care is deeply personal to me. And I guarantee you that if I'm elected president, I will protect your family's health…",15515,0,rt joebiden health care deeply personal guarantee elected president protect family health,0.0,0.3,neutral,other
+95,2020-10-12 19:22:44,This Supreme Court nomination process is illegitimate and deliberately defies the will of the people. Republicans w… https://t.co/YfMzxMGba8,19514,90480,supreme court nomination process illegitimate deliberately defies people republicans w,0.0,0.0,neutral,other
+96,2020-10-12 16:16:45,"Three years ago today, Trump signed an executive order undercutting the Affordable Care Act. 
+
+Today, he’s in court… https://t.co/oRVp744egF",11819,41607,three years ago today trump signed executive order undercutting affordable care act today hes court,0.0,0.0,neutral,other
+97,2020-10-12 15:42:14,"RT @JoeBiden: On this Indigenous People’s Day, we must both recognize the past that has brought us here, and commit to one another to write…",7974,0,rt joebiden indigenous peoples day must recognize past brought us commit one another write,-0.25,0.25,negative,other
+98,2020-10-12 12:54:34,Congrats @Lakers on your 17th NBA Championship last night. You make California proud. https://t.co/3PtsEest06,1682,18340,congrats lakers 17th nba championship last night make california proud,0.4,0.5333333333333333,positive,other
+99,2020-10-12 01:12:00,Ineptitude (noun): lack of skill or ability. https://t.co/WnOhHRqRUu,10833,50359,ineptitude noun lack skill ability,0.0,0.0,neutral,other
+100,2020-10-11 21:25:16,"Together we can build a community that is strong and decent, just and kind—one in which we can all see ourselves. 
+https://t.co/fQTXSPJBwL",2586,11972,together build community strong decent kindone see,0.3,0.7,positive,other
+101,2020-10-11 19:34:01,The Supreme Court makes decisions that impact millions of Americans for generations. We must ensure that the integr… https://t.co/ki37MPc3Y1,12503,72103,supreme court makes decisions impact millions americans generations must ensure integr,0.0,0.0,neutral,other
+102,2020-10-11 19:07:28,RT @JoeBiden: There is no excuse for President Trump’s reckless behavior. https://t.co/ooUh6pxRDt,25400,0,rt joebiden excuse president trumps reckless behavior,0.025,0.05,positive,other
+103,2020-10-11 17:01:01,"Together, we can build a world where all girls have every opportunity to succeed and thrive. 
+
+And to every girl ou… https://t.co/RbPIkLVOCr",8288,53176,together build world girls every opportunity succeed thrive every girl ou,0.0,0.0,neutral,other
+104,2020-10-11 15:17:01,"On #NationalComingOutDay, we celebrate members of the LGBTQ+ community and remember that, even today, it’s not alwa… https://t.co/KQitBEOlVQ",19498,135591,nationalcomingoutday celebrate members community remember even today alwa,0.0,0.0,neutral,other
+105,2020-10-11 13:36:42,"Together, we will build our country back better than before.
+
+It was an honor to make the case for @JoeBiden’s and… https://t.co/LkeW7RKLE5",7022,37978,together build country back better honor make case joebidens,0.25,0.25,positive,other
+106,2020-10-11 01:24:21,Our campaign is committed to building a broad coalition of supporters that is diverse and inclusive. Proud to share… https://t.co/JvHeLTUkRb,8183,33519,campaign committed building broad coalition supporters diverse inclusive proud share,0.43125,0.65625,positive,other
+107,2020-10-10 20:55:38,"Tune in live as @JoeBiden gives remarks in Erie, Pennsylvania about how we will get the American economy back on tr… https://t.co/J3820cCsW9",1527,7541,tune live joebiden gives remarks erie pennsylvania get american economy back tr,0.04545454545454545,0.16666666666666666,positive,other
+108,2020-10-10 19:15:03,"With their selection of a nominee to a lifetime appointment on the Supreme Court, Republicans have made it clear: t… https://t.co/oU0n8y5cih",7546,31953,selection nominee lifetime appointment supreme court republicans made clear,0.10000000000000002,0.3833333333333333,positive,election
+109,2020-10-10 18:00:03,Donald Trump and Mike Pence don’t have a national testing plan for coronavirus or a national strategy for contact t… https://t.co/d5XwErZFox,13326,70279,donald trump mike pence dont national testing plan coronavirus national strategy contact,0.0,0.0,neutral,other
+110,2020-10-10 15:12:02,"On #WorldMentalHealthDay, we affirm that mental health is just as important and real as physical health. Together,… https://t.co/rHdczL1cFQ",12844,78070,worldmentalhealthday affirm mental health important real physical health together,0.10000000000000002,0.47142857142857136,positive,other
+111,2020-10-10 14:03:47,"As a proud graduate of Howard University, I’m always excited to hear from HBCU students. We are family—no matter wh… https://t.co/zY5El2wcbn",8851,50704,proud graduate howard university im always excited hear hbcu students familyno matter wh,0.5875,0.875,positive,other
+112,2020-10-10 01:07:01,"When we vote, things change.",27315,240452,vote things change,0.0,0.0,neutral,other
+113,2020-10-09 21:27:26,The science is clear: social distancing and wearing masks prevents the spread of COVID-19 and saves lives. As we he… https://t.co/AYCyKndh80,4888,24221,science clear social distancing wearing masks prevents spread saves lives,0.06666666666666668,0.22499999999999998,positive,other
+114,2020-10-09 20:58:17,"RT @JoeBiden: Why did Donald Trump tell Bob Woodward the truth about COVID-19, but not the American people?",45574,0,rt joebiden donald trump tell bob woodward truth american people,0.0,0.0,neutral,other
+115,2020-10-09 19:05:56,"Joe Biden has been very clear: he will not raise taxes on anybody who makes less than $400,000 a year.",33090,222475,joe biden clear raise taxes anybody makes less year,-0.018333333333333313,0.2825,negative,other
+116,2020-10-09 18:13:00,"RT @JoeBiden: Folks, if you live in:
+
+Idaho
+New York
+North Carolina
+Oklahoma
+
+Today is your last day to register to vote. Head to https://t…",10161,0,rt joebiden folks live idaho new york north carolina oklahoma today last day register vote head,0.0909090909090909,0.34040404040404043,positive,other
+117,2020-10-09 17:11:07,Tune in to listen to my conversation with @iambeckyg about the power of your vote in this election:… https://t.co/zfeMXOXzMX,1297,5574,tune listen conversation iambeckyg power vote election,0.0,0.0,neutral,election
+118,2020-10-09 13:42:21,"Good morning. 25 days to go. Let’s get this done, together→ https://t.co/MykJL0X5gt. https://t.co/YMMLCcoDV3",14583,133193,good morning 25 days go lets get done together,0.7,0.6000000000000001,positive,other
+119,2020-10-09 01:46:59,Young people graduating from college are wondering if they can get a job. People are worried about whether they’ll… https://t.co/9o2BxgdKQU,13243,94750,young people graduating college wondering get job people worried whether theyll,0.1,0.4,positive,other
+120,2020-10-08 21:56:07,.@JoeBiden and I are in Phoenix kicking off our bus tour to fight for our democracy and bring integrity back to the… https://t.co/4T2u0p4yFK,1778,10119,joebiden phoenix kicking bus tour fight democracy bring integrity back,0.0,0.0,neutral,other
+121,2020-10-08 20:49:39,"Breonna Taylor was a caregiver. She cared for her grandmother, her family, her community. She was beautiful, inside… https://t.co/20bXsCuaKL",4528,22358,breonna taylor caregiver cared grandmother family community beautiful inside,0.85,1.0,positive,other
+122,2020-10-08 19:26:19,"RT @JoeBiden: I promise you that as president, I will always appeal to the best in us — not the worst. https://t.co/E07GuV4m7G",8220,0,rt joebiden promise president always appeal best us worst,0.0,0.65,neutral,other
+123,2020-10-08 18:23:55,"On January 28, Donald Trump and Mike Pence were informed about the nature of this pandemic. 
+
+They knew it was leth… https://t.co/26X6u2MR21",25676,113229,january 28 donald trump mike pence informed nature pandemic knew leth,0.0,0.0,neutral,other
+124,2020-10-08 15:19:24,"If we use our vote and we use our voice, we will win. Watch a recap of last night's debate now. https://t.co/mJ6vHhAFjL",7953,39257,use vote use voice win watch recap last night debate,0.4,0.23333333333333334,positive,other
+125,2020-10-08 13:41:28,"RT @DouglasEmhoff: 26 Days. ⁦@KamalaHarris⁩ was so great last night, but we keep moving onward! Today: Kamala is in Arizona with ⁦@JoeBiden…",7066,0,rt douglasemhoff 26 days kamalaharris great last night keep moving onward today kamala arizona joebiden,0.4,0.4083333333333333,positive,other
+126,2020-10-08 13:32:28,"Thankful for all of your messages of support. With only 26 days left until Election Day, let’s use this moment to d… https://t.co/gXTiDR0nWv",10855,136967,thankful messages support 26 days left election day lets use moment,0.0,0.5,neutral,election
+127,2020-10-08 03:25:43,Thank you for all the support. Let’s keep this momentum going: https://t.co/IUQ5OZPZSS https://t.co/ZMc8uwTckL,20769,167665,thank support lets keep momentum going,0.0,0.0,neutral,other
+128,2020-10-08 02:35:59,"We need an administration that can heal and unite, not tear us apart. Let’s do this together. https://t.co/MCGStCFHRI",3740,24011,need administration heal unite tear us apart lets together,0.0,0.0,neutral,other
+129,2020-10-08 02:32:55,This is a pattern. He refused to condemn white supremacists—and then he doubled down. https://t.co/UWF6OSeZfI,17252,88863,pattern refused condemn white supremacistsand doubled,-0.07777777777777779,0.14444444444444446,negative,other
+130,2020-10-08 02:29:51,Vote early. Go to https://t.co/MykJL0X5gt to find out how.,5077,25805,vote early go find,0.1,0.3,positive,other
+131,2020-10-08 02:23:08,"Just last ​week,​ Donald Trump stood on a​ debate stage ​and refused to condemn white supremacists.
+
+This isn’t the… https://t.co/UZnImR9nqT",14126,76759,last week donald trump stood debate stage refused condemn white supremacists isnt,0.0,0.03333333333333333,neutral,other
+132,2020-10-08 02:15:28,Donald Trump has betrayed our friends and embraced dictators around the world. https://t.co/ZHw9VeSTaL,7299,40256,donald trump betrayed friends embraced dictators around world,0.0,0.0,neutral,other
+133,2020-10-08 02:13:03,I will always fight for a woman’s right to make a decision about her own body. It should be her decision and not Donald Trump’s.,43121,266651,always fight womans right make decision body decision donald trumps,0.44285714285714284,0.7678571428571428,positive,other
+134,2020-10-08 02:10:47,The American people want us to fill a seat right now—but it’s not on the Supreme Court; it’s the one in the Oval Office.,21377,143693,american people want us fill seat right nowbut supreme court one oval office,0.14285714285714285,0.26785714285714285,positive,other
+135,2020-10-08 02:03:40,"Donald Trump called John McCain a “loser.”
+
+He let Putin get away with placing bounties on the heads of our troops.… https://t.co/zsgh9fFdia",10647,51701,donald trump called john mccain loser let putin get away placing bounties heads troops,0.0,0.0,neutral,other
+136,2020-10-08 01:58:12,Donald Trump prefers to take the word of Vladimir Putin over that of the American intelligence community.,14392,89048,donald trump prefers take word vladimir putin american intelligence community,0.0,0.0,neutral,other
+137,2020-10-08 01:52:53,"Joe Biden is responsible for saving America's auto industry. And Mike Pence voted against it. So let's set the record straight. 
+
+Thank you.",18404,119144,joe biden responsible saving america auto industry mike pence voted let set record straight thank,0.2,0.47500000000000003,positive,other
+138,2020-10-08 01:49:21,"If you have a pre-existing condition, the Trump administration is coming for you. https://t.co/mf6fux03nR",20768,89420,condition trump administration coming,0.0,0.0,neutral,other
+139,2020-10-08 01:46:16,.@JoeBiden will not ban fracking. That is a fact.,12402,96592,joebiden ban fracking fact,0.0,0.0,neutral,other
+140,2020-10-08 01:38:14,.@JoeBiden and I believe the economy is doing well when our workers and our families are doing well. That’s why our… https://t.co/DwAQeOurvz,8710,51699,joebiden believe economy well workers families well thats,0.0,0.0,neutral,other
+141,2020-10-08 01:35:19,"Donald Trump paid $750 in taxes. When I first heard about it, I literally said, “You mean $750,000?”",18493,157252,donald trump paid 750 taxes first heard literally said mean,-0.03125,0.5104166666666666,negative,other
+142,2020-10-08 01:31:03,The day @JoeBiden asked me to serve with him was one of the most memorable days of my life. My mother—who came to t… https://t.co/Lnn5uaJrrp,4493,50467,day joebiden asked serve one memorable days life motherwho came,0.5,0.75,positive,other
+143,2020-10-08 01:24:08,RT @JoeBiden: We’re eight months into this pandemic and Donald Trump and Mike Pence still have no plan to deal with COVID-19. He’s still ho…,4097,0,rt joebiden eight months pandemic donald trump mike pence still plan deal hes still ho,0.0,0.0,neutral,other
+144,2020-10-08 01:22:26,"Over 210,000 Americans have died. Over 7 million have contracted this disease. Nearly 30 million have filed for une… https://t.co/ypGbBkKpzY",5753,24826,americans died 7 million contracted disease nearly 30 million filed une,0.1,0.4,positive,other
+145,2020-10-08 01:17:21,"Trump didn’t share information about the virus because he wanted you to stay calm. 
+
+I want to ask you: how calm we… https://t.co/Hdx2Tte6P1",9335,47520,trump didnt share information virus wanted stay calm want ask calm,0.30000000000000004,0.75,positive,other
+146,2020-10-08 01:10:43,How Donald Trump and Mike Pence handled the coronavirus crisis is the greatest failure of any American presidency.,60514,420901,donald trump mike pence handled coronavirus crisis greatest failure american presidency,0.22777777777777777,0.43333333333333335,positive,other
+147,2020-10-08 00:31:22,"Before I step on stage, join @MindyKaling, @PadmaLakshmi, @DJCassidy, members of my family, and more guests for a p… https://t.co/kMeCei0cFJ",967,5483,step stage join mindykaling padmalakshmi djcassidy members family guests p,0.5,0.5,positive,other
+148,2020-10-07 22:46:47,"RT @JoeBiden: Taylor — Thanks for your support and for speaking out at this crucial moment in our nation’s history.
+
+Election Day is right…",24943,0,rt joebiden taylor thanks support speaking crucial moment nations history election day right,0.1,0.6,positive,election
+149,2020-10-07 22:46:35,@taylorswift13 @vmagazine @inezandvinoodh Voting never goes out of style. Thank you so much for your support Taylor… https://t.co/LTw8ItnWjD,7549,77783,taylorswift13 vmagazine inezandvinoodh voting never goes style thank much support taylor,0.2,0.2,positive,other
+150,2020-10-07 21:03:52,Tonight. 9pm ET. https://t.co/uQR3INMnGd,6312,41915,tonight 9pm et,0.0,0.0,neutral,other
+151,2020-10-07 18:41:45,RT @TeamJoe: Join our art stream with Claire Salvo who is creating a portrait of @KamalaHarris all set to our lo-fi playlist. Come hang out…,415,0,rt teamjoe join art stream claire salvo creating portrait kamalaharris set playlist come hang,0.0,0.0,neutral,other
+152,2020-10-07 17:20:09,"Together, we can build back better and bring our country together—but it starts with getting everyone you know to v… https://t.co/0oO2gDikNi",1695,7902,together build back better bring country togetherbut starts getting everyone know v,0.25,0.25,positive,other
+153,2020-10-07 14:37:15,@ErinnFHarley She has my vote. Tell her to keep leading.,700,7321,erinnfharley vote tell keep leading,0.0,0.0,neutral,other
+154,2020-10-07 13:23:29,Masks save lives. https://t.co/ZvgjQsCQay,16715,147473,masks save lives,0.0,0.0,neutral,other
+155,2020-10-07 01:21:20,"People have asked me what they can do in the final 28 days of this election, and here’s what I say: make more phone… https://t.co/ifhEzVeLbc",18140,94897,people asked final 28 days election heres say make phone,0.25,0.75,positive,election
+156,2020-10-07 00:30:15,"RT @JoeBiden: Make no mistake: if you are out of work, if your business is closed, if your child’s school is shut down, if you are seeing l…",94266,0,rt joebiden make mistake work business closed childs school shut seeing l,-0.1277777777777778,0.19444444444444448,negative,other
+157,2020-10-06 22:39:38,Trump turned his back on millions of Americans who are struggling to get through this global pandemic and desperate… https://t.co/kCKU5fSHpw,8447,33132,trump turned back millions americans struggling get global pandemic desperate,0.0,0.0,neutral,other
+158,2020-10-06 21:08:15,"RT @JoeBiden: I give you my word: If I am elected president, I will marshal the ingenuity and goodwill of this nation to turn division into…",40412,0,rt joebiden give word elected president marshal ingenuity goodwill nation turn division,0.0,0.0,neutral,other
+159,2020-10-06 20:29:41,"Throughout American history, we’ve fought and won battles for the soul of our nation, and we’ll do it again. Tune i… https://t.co/7s7vhtu1U2",2362,9910,throughout american history weve fought battles soul nation well tune,0.0,0.0,neutral,other
+160,2020-10-06 17:55:29,Optimism is the fuel driving every fight I’ve been in—and I could not be more optimistic for the future:… https://t.co/Uz3AYtZ3T8,5179,36435,optimism fuel driving every fight ive inand could optimistic future,0.5,0.5,positive,other
+161,2020-10-06 16:23:48,RT @JoeBiden: #ImVotingFor Shamar — and every kid in this country — because they deserve the chance to go as far as their God-given potenti…,20496,0,rt joebiden imvotingfor shamar every kid country deserve chance go far potenti,0.1,1.0,positive,other
+162,2020-10-06 15:03:52,"#ImVotingFor people like my mother, Shyamala, who taught my sister and me that if you see a problem, you don't comp… https://t.co/aaYsN9wRNC",5588,34093,imvotingfor people like mother shyamala taught sister see problem comp,0.0,0.0,neutral,other
+163,2020-10-06 13:55:24,RT @JoeBiden: Wear a mask. https://t.co/TSuLuzAXEB,104533,0,rt joebiden wear mask,0.0,0.0,neutral,other
+164,2020-10-06 13:01:03,"“I hope you’ll vote for @JoeBiden with power, with passion, and with a love of this country that cannot possibly be… https://t.co/lj33klGOCM",4940,22265,hope youll vote joebiden power passion love country possibly,0.25,0.8,positive,other
+165,2020-10-06 01:17:49,RT @JoeBiden: The future is yours. I'm counting on you. https://t.co/4vpSkat0ZH,10211,0,rt joebiden future counting,0.0,0.125,neutral,other
+166,2020-10-06 01:04:39,RT @JoeBiden: Roe v. Wade must remain the law of the land. https://t.co/1Gq6Ncc2IK,10195,0,rt joebiden roe wade must remain law land,0.0,0.0,neutral,other
+167,2020-10-06 00:49:48,"The Trump administration failed to address COVID-19, and now our students are paying the price. @JoeBiden and I wil… https://t.co/IX1YZc2kTo",2553,10246,trump administration failed address students paying price joebiden wil,-0.5,0.3,negative,other
+168,2020-10-06 00:40:09,RT @TeamJoe: We need a president who will denounce white supremacists. #BidenTownHall,2574,0,rt teamjoe need president denounce white supremacists bidentownhall,0.0,0.0,neutral,other
+169,2020-10-06 00:29:59,"The Biden-Harris plan to get coronavirus under control includes: free COVID-19 testing, treatment, and vaccines for everyone.",27780,186663,plan get coronavirus control includes free testing treatment vaccines everyone,0.4,0.8,positive,other
+170,2020-10-06 00:19:08,RT @JoeBiden: I view wearing a mask as a patriotic duty — to protect those around you. #BidenTownHall,26316,0,rt joebiden view wearing mask patriotic duty protect around bidentownhall,0.0,0.0,neutral,other
+171,2020-10-06 00:09:26,.@JoeBiden is right—masks matter. Wearing a mask can save lives. Do it for yourself and for those around you.,13459,93475,joebiden rightmasks matter wearing mask save lives around,0.0,0.0,neutral,other
+172,2020-10-05 23:55:16,"RT @JoeBiden: I’m about to take the stage for tonight’s Town Hall in Miami, Florida. Tune in to @NBC now to watch live. https://t.co/iFo4jT…",3474,0,rt joebiden im take stage tonights town hall miami florida tune nbc watch live,0.13636363636363635,0.5,positive,other
+173,2020-10-05 23:42:14,"Everything we care about: health care, combating the climate crisis, racial justice, and more is on the ballot. 
+
+T… https://t.co/V6BTgn7kVC",6067,31158,everything care health care combating climate crisis racial justice ballot,0.5,0.5,positive,other
+174,2020-10-05 22:29:39,The people I get to hear from while traveling across our country give me the inspiration to keep working for a bett… https://t.co/T2ynRBfZSE,1370,7335,people get hear traveling across country give inspiration keep working bett,0.0,0.0,neutral,other
+175,2020-10-05 21:39:05,"RT @JoeBiden: Folks, if you live in:
+
+Arizona
+Arkansas
+Florida
+Georgia
+Hawaii
+Indiana
+Kentucky
+Mississippi
+Ohio
+South Carolina
+Tennessee
+Te…",12397,0,rt joebiden folks live arizona arkansas florida georgia hawaii indiana kentucky mississippi ohio south carolina tennessee te,0.13636363636363635,0.5,positive,other
+176,2020-10-05 20:02:28,"Together @JoeBiden and I will build an economy that works for the middle class, not just the wealthy and well-conne… https://t.co/hySDhmwtT4",1859,9161,together joebiden build economy works middle class wealthy,0.25,0.5,positive,other
+177,2020-10-05 18:45:51,I’m so happy America is finally getting to know the @DouglasEmhoff that I know and love. Could not be more proud of… https://t.co/fplT46ccCg,1623,14241,im happy america finally getting know douglasemhoff know love could proud,0.52,0.82,positive,other
+178,2020-10-05 17:47:25,This is more than just winning an election—the very character of our country is on the ballot this year. It’s going… https://t.co/jFsYtHALzn,1200,5170,winning electionthe character country ballot year going,0.39999999999999997,0.5166666666666667,positive,election
+179,2020-10-05 14:27:41,"Wear a mask, not just for yourself but for those around you and the people you love.",33809,241328,wear mask around people love,0.5,0.6,positive,other
+180,2020-10-05 01:20:52,.@JoeBiden and I are running to set our country on the right path for new generations of Americans. https://t.co/wGWQWZHMm1,9571,63457,joebiden running set country right path new generations americans,0.21103896103896103,0.4951298701298701,positive,other
+181,2020-10-04 23:02:52,Wind down your Sunday and join us for an evening of gospel music as we work to restore the soul of our nation. Tune… https://t.co/15QYuI0EIn,1159,5497,wind sunday join us evening gospel music work restore soul nation tune,-0.15555555555555559,0.2888888888888889,negative,other
+182,2020-10-04 20:19:14,Just days after the election the Supreme Court will hear a case that could strike down the Affordable Care Act in i… https://t.co/hs7ltUEhtZ,16130,72370,days election supreme court hear case could strike affordable care act,-0.15555555555555559,0.2888888888888889,negative,election
+183,2020-10-04 17:20:33,"Farm workers are essential workers—they deserve to be treated with dignity and respect, especially as they work thr… https://t.co/rO1DTmy1SG",3178,14317,farm workers essential workersthey deserve treated dignity respect especially work thr,0.0,0.65,neutral,other
+184,2020-10-04 15:47:57,RT @JoeBiden: 30 days.,42366,0,rt joebiden 30 days,0.0,0.0,neutral,other
+185,2020-10-04 13:48:46,There are some powerful people in our country trying to make it difficult for us to vote. You know why? Because the… https://t.co/x8qHzP8CKY,9382,48664,powerful people country trying make difficult us vote know,-0.1,1.0,negative,other
+186,2020-10-04 01:19:00,Access to health care should be a right and not just a privilege for those who can afford it. https://t.co/OcDiO7s5BP,6405,32464,access health care right privilege afford,0.2857142857142857,0.5357142857142857,positive,other
+187,2020-10-04 00:14:02,Our campaign is powered by the people — grassroots donors chipping in $5 and $25 at a time. Join our grassroots fun… https://t.co/4cMTIChI4w,1229,5562,campaign powered people grassroots donors chipping 5 25 time join grassroots fun,0.0,0.0,neutral,other
+188,2020-10-03 23:01:00,".@BarackObama, @michaelb4jordan, and I have made a plan to vote. What’s your plan? https://t.co/LBChx4yeRg",3437,16795,barackobama michaelb4jordan made plan vote whats plan,0.0,0.0,neutral,other
+189,2020-10-03 21:25:18,"Today is a great day to make a plan to vote. Write down when you will vote, where you will vote, and how you will v… https://t.co/yOsexJwMLy",6071,29372,today great day make plan vote write vote vote v,0.32222222222222224,0.5194444444444445,positive,other
+190,2020-10-03 19:22:26,This is the place. Happy to be in the beautiful state of Utah and start the day with former State Senator Scott How… https://t.co/vJutzLZMca,3155,30526,place happy beautiful state utah start day former state senator scott,0.5499999999999999,0.6666666666666666,positive,other
+191,2020-10-03 16:54:20,The threat of this virus is real for all of us. Let it be a reminder that we must remain vigilant and take care of… https://t.co/dsKw3jd9Hk,9649,64045,threat virus real us let reminder must remain vigilant take care,0.2,0.30000000000000004,positive,other
+192,2020-10-03 16:52:22,"RT @JoeBiden: Be a patriot. Do your part.
+
+Wearing a mask will protect you. But it will also protect those around you — your mom, your dad,…",49608,0,rt joebiden patriot part wearing mask protect also protect around mom dad,0.0,0.0,neutral,other
+193,2020-10-03 13:24:51,One month. Let’s give it our all.,42249,377807,one month lets give,0.0,0.0,neutral,other
+194,2020-10-02 22:44:49,Voting is a big step towards building our country back better. Tune in now to our voter mobilization drive-in event… https://t.co/lRsFEvQlr3,1808,8892,voting big step towards building country back better tune voter mobilization event,0.16666666666666666,0.19999999999999998,positive,other
+195,2020-10-02 20:04:59,"RT @JoeBiden: Tonight, @BarackObama, @KamalaHarris, and @MichaelB4Jordan are hosting a grassroots fundraiser to discuss what's at stake thi…",5771,0,rt joebiden tonight barackobama kamalaharris michaelb4jordan hosting grassroots fundraiser discuss stake thi,0.0,0.0,neutral,other
+196,2020-10-02 17:47:11,Both @DouglasEmhoff and I were tested for COVID-19 this morning and thankfully we tested negative. This virus is st… https://t.co/jnbgzQ83tr,18351,181235,douglasemhoff tested morning thankfully tested negative virus st,-0.3,0.4,negative,other
+197,2020-10-02 16:31:50,RT @JoeBiden: I’m happy to report that Jill and I have tested negative for COVID. Thank you to everyone for your messages of concern. I hop…,135093,0,rt joebiden im happy report jill tested negative covid thank everyone messages concern hop,0.25,0.7,positive,other
+198,2020-10-02 13:17:04,Doug and I join Joe Biden and Dr. Biden in wishing President Trump and the First Lady a full and speedy recovery. W… https://t.co/wXqkG0idwg,13727,176398,doug join joe biden biden wishing president trump first lady full speedy recovery w,0.3,0.44166666666666665,positive,other
+199,2020-10-02 02:23:15,"Could not be more thrilled that one of my favorite actors, @michaelb4jordan, is joining @BarackObama and me for our… https://t.co/IiCsZwxuQy",2175,14039,could thrilledthat one favorite actors michaelb4jordan joining barackobama,0.5333333333333333,0.7333333333333334,positive,other

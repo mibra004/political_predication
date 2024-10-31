@@ -1,0 +1,352 @@
+,create_time,text,retweets,favorites,word_tokens,text_clean,polarity,subjectivity,sentiment_2,keywords
+0,2020-10-22 00:30:00,"Folks, if you plan to vote by mail and haven’t requested your ballot yet, it’s important that you do so as soon as… https://t.co/LlS8JP7Nj4",1181,4677.0,25,folks plan vote mail havent requested ballot yet important soon,0.4,1.0,positive,other
+1,2020-10-21 23:50:00,"Vote early.
+
+Vote by mail.
+
+Vote on Election Day.
+
+Just make sure you vote. https://t.co/eoxT07d7QB",2921,19363.0,15,vote early vote mail vote election day make sure vote,0.3,0.5944444444444444,positive,election
+2,2020-10-21 23:15:00,"President Trump didn't take the necessary precautions to protect himself and others.
+
+How can we trust him to protect the country?",10607,74966.0,21,president trump take necessary precautions protect others trust protect country,0.0,1.0,neutral,other
+3,2020-10-21 21:47:08,I couldn’t be more excited to have my friend @BarackObama hitting the campaign trail. Tune in for his first drive-i… https://t.co/95UA8qjUvt,4454,28721.0,21,couldnt excited friend barackobama hitting campaign trail tune first,0.375,0.5277777777777778,positive,other
+4,2020-10-21 21:05:00,It’s time we replace Secretary Betsy DeVos with an actual public school educator — one who values our public school… https://t.co/cy02pEyzXl,14701,84864.0,20,time replace secretary betsy devos actual public school educator one values public school,0.0,0.07777777777777778,neutral,other
+5,2020-10-21 20:19:33,Tune in as @BarackObama sits down with community leaders in Philadelphia to talk about what’s at stake in this elec… https://t.co/v4tEMWGHDw,4072,19427.0,21,tune barackobama sits community leaders philadelphia talk whats stake elec,-0.15555555555555559,0.2888888888888889,negative,other
+6,2020-10-21 20:05:00,"Hay muchos asuntos que son complicados, pero algunas cosas son visiblemente claras. Las familias deben permanecer u… https://t.co/udd4YrkBG9",1239,6645.0,17,hay muchos asuntos que son complicados pero algunas cosas son visiblemente claras las familias deben permanecer u,0.0,0.0,neutral,other
+7,2020-10-21 19:50:00,"There are many issues that are complicated, but some things are just black and white. Families belong together. https://t.co/TgIkhAMAtZ",2858,14500.0,19,many issues complicated things black white families belong together,-0.041666666666666664,0.48333333333333334,negative,other
+8,2020-10-21 19:30:24,Cada día parece que descubrimos nuevos horrores cometidos por el presidente Trump y su administración. https://t.co/eefL58X7R8,4623,25370.0,16,cada da parece que descubrimos nuevos horrores cometidos por el presidente trump su administracin,0.0,0.0,neutral,other
+9,2020-10-21 18:36:13,Every day it seems we uncover new horrors perpetrated by President Trump and his administration. https://t.co/eefL58X7R8,14836,78136.0,16,every day seems uncover new horrors perpetrated president trump administration,0.13636363636363635,0.45454545454545453,positive,other
+10,2020-10-21 17:02:00,The Build Back Better Express Tour was about more than my love for trains — it was about meeting folks along the wa… https://t.co/jead3vn38u,4518,20903.0,22,build back better express tour love trains meeting folks along wa,0.375,0.4,positive,other
+11,2020-10-21 15:30:00,"Justice is on the ballot.
+
+https://t.co/eoxT07uII9 https://t.co/0dg9Cg1f2i",4876,21919.0,7,justice ballot,0.0,0.0,neutral,other
+12,2020-10-21 14:20:00,"West Virginia — in-person early voting is now open across the state. 
+
+Make a plan to vote at https://t.co/3lR0146LYv.",3204,17403.0,17,west virginia early voting open across state make plan vote,0.05,0.4,positive,other
+13,2020-10-21 14:02:00,"Missouri — today is the last day to request a mail-in ballot.
+
+Head to https://t.co/lDI7PzhWha and request yours today.",3286,14014.0,17,missouri today last day request ballot head request today,0.0,0.06666666666666667,neutral,other
+14,2020-10-21 03:20:00,It’s time we see each other as fellow Americans who live in — and love — the United States of America. https://t.co/xawem14X61,26201,111755.0,21,time see fellow americans live love united states america,0.17045454545454544,0.4916666666666667,positive,other
+15,2020-10-21 00:45:00,"I’ve always believed we’re at our best when we’re one America. If we come together, there’s not a single thing we cannot overcome.",15894,126253.0,28,ive always believed best one america come together theres single thing overcome,0.5178571428571429,0.2571428571428571,positive,other
+16,2020-10-20 23:50:00,"If I’m elected president, I won’t waste a minute getting this virus under control. Here’s how I’ll do it: https://t.co/NoPsQ0FDV8",12795,60826.0,24,im elected president wont waste minute getting virus control heres ill,-0.2,0.0,negative,other
+17,2020-10-20 23:12:00,"Whether it’s your first time voting or you’re an old pro, voting is better with friends and family. So message a fe… https://t.co/T69jxHbVF9",3516,19528.0,24,whether first time voting youre old pro voting better friends family message fe,0.2833333333333333,0.3444444444444444,positive,other
+18,2020-10-20 22:05:00,"Listening to scientists is not a bad thing.
+
+I can’t believe that has to be said.",63358,425049.0,17,listening scientists bad thing cant believe said,0.3499999999999999,0.6666666666666666,positive,other
+19,2020-10-20 20:46:00,"America is a nation that values immigrants. It is and has always been one of our greatest strengths.
+
+We need a pre… https://t.co/k1qn4sRG3M",5202,27150.0,22,america nation values immigrants always one greatest strengths need pre,1.0,1.0,positive,other
+20,2020-10-20 20:12:17,RT @KamalaHarris: My birthday wish this year? For everyone to go vote: https://t.co/MykJL0X5gt.,19358,106634.55,13,rt kamalaharris birthday wish year everyone go vote,0.0,0.0,neutral,other
+21,2020-10-20 19:40:00,"A few weeks ago, I spoke to Mr. Rogers’ wife Joanne when I was in her neighborhood in Pittsburgh. It was a great co… https://t.co/tN6YnHIKFg",9847,74503.0,23,weeks ago spoke rogers wife joanne neighborhood pittsburgh great co,0.30000000000000004,0.425,positive,other
+22,2020-10-20 18:59:00,"Tonight, the Avengers are assembling with real-life superhero @KamalaHarris for a grassroots fundraiser.
+
+Time is r… https://t.co/qRbhbhGa05",3540,20179.0,15,tonight avengers assembling superhero kamalaharris grassroots fundraiser time r,0.0,0.0,neutral,other
+23,2020-10-20 18:23:35,"RT @TeamJoe: When @katieporteroc breaks out her whiteboard, you know she means business.
+
+Watch as she explains how a Biden-Harris administ…",3329,106634.55,19,rt teamjoe katieporteroc breaks whiteboard know means business watch explains administ,0.0,0.0,neutral,other
+24,2020-10-20 17:45:00,"Two weeks from today, we’re going to beat President Trump.",60048,557562.0,11,two weeks today going beat president trump,0.0,0.0,neutral,other
+25,2020-10-20 17:04:17,"Mr. President, the people are tired. They’re tired of your lies about this virus. They’re tired of watching more Am… https://t.co/sRiLPl7pgC",5363,31280.0,21,president people tired theyre tired lies virus theyre tired watching,-0.17500000000000004,0.6499999999999999,negative,other
+26,2020-10-20 17:04:16,"Waving a white flag and saying, “it is what it is” is unacceptable when thousands are dying each week, when busines… https://t.co/sq1FRAO8w6",5888,40644.0,21,waving white flag saying unacceptable thousands dying week busines,0.0,0.0,neutral,other
+27,2020-10-20 17:04:16,"Yesterday, @realDonaldTrump decided to attack Dr. Fauci once again, calling him a ‘disaster’ and public health expe… https://t.co/YefpQ9aVzu",18964,108696.0,16,yesterday realdonaldtrump decided attack fauci calling disaster public health expe,0.0,0.06666666666666667,neutral,other
+28,2020-10-20 16:10:00,"Happy Birthday, @KamalaHarris. Next year, let’s celebrate with some ice cream at the White House. https://t.co/SWhS32AaIE",24715,281289.0,17,happy birthday kamalaharris next year lets celebrate ice cream white house,0.26666666666666666,0.3333333333333333,positive,other
+29,2020-10-20 15:58:00,"If you live in Hawaii, Utah, or Wisconsin, in-person early voting is now underway.
+
+Millions of Americans across th… https://t.co/ZThA9uLqvq",3047,13143.0,18,live hawaii utah wisconsin early voting underway millions americans across th,0.11818181818181818,0.4,positive,other
+30,2020-10-20 15:45:00,"Maryland and New Mexico — if you plan to vote by mail, today is the last day to request your absentee ballot.
+
+Head… https://t.co/14Xbtm0r04",3330,12678.0,22,maryland new mexico plan vote mail today last day request absentee ballot head,0.06818181818181818,0.2606060606060606,positive,other
+31,2020-10-20 14:36:00,"The simple, sad truth is that this president is not in office to serve the American people. He’s in it to serve him… https://t.co/AqimMW330S",12064,62173.0,24,simple sad truth president office serve american people hes serve,-0.16666666666666666,0.4523809523809524,negative,other
+32,2020-10-20 01:20:00,Pennsylvania — there are just a few hours left to register to vote online. Don’t miss your chance to make your voic… https://t.co/sh4dJTTeUg,4511,19172.0,22,pennsylvania hours left register vote online dont miss chance make voic,-0.1,0.05,negative,other
+33,2020-10-20 01:05:00,"For once, Donald Trump is correct: I will listen to scientists. https://t.co/jmxoDn1Ezp",33443,216407.0,12,donald trump correct listen scientists,0.0,0.0,neutral,other
+34,2020-10-20 00:44:00,I will be a president who pushes towards the future. Not one who clings to the past.,33303,347443.0,17,president pushes towards future one clings past,-0.125,0.1875,negative,other
+35,2020-10-20 00:07:00,".@realDonaldTrump — if you had listened to the scientists, it wouldn't be this bad. https://t.co/0eNuV4pAMK",18179,80537.0,14,realdonaldtrump listened scientists would bad,-0.6999999999999998,0.6666666666666666,negative,other
+36,2020-10-19 23:10:00,"Folks, the Avengers are coming back together for their biggest battle yet. Join them and @KamalaHarris tomorrow nig… https://t.co/5xjRpgpUAF",7515,38355.0,18,folks avengers coming back together biggest battle yet join kamalaharris tomorrow nig,0.0,0.0,neutral,other
+37,2020-10-19 22:46:00,"We are in a battle for the soul of this nation — and it’s a battle we can and must win.
+
+Vote. https://t.co/eoxT07d7QB",6376,37604.0,23,battle soul nation battle must win vote,0.8,0.4,positive,other
+38,2020-10-19 20:22:07,...yes https://t.co/LZyAQugqoW,54400,479228.0,2,yes,0.0,0.0,neutral,other
+39,2020-10-19 19:40:00,"Early voting starts today in:
+
+Alaska
+Arkansas
+Colorado
+Florida (in most counties)
+Idaho (in some counties)
+North D… https://t.co/EKysHgo4vn",5038,19695.0,18,early voting starts today alaska arkansas colorado florida counties idaho counties north,0.3,0.4,positive,other
+40,2020-10-19 19:02:00,"This election is about so much more than policies. The soul of America is on the ballot. 
+
+@KamalaHarris and I will… https://t.co/DVR95qQ5mc",6304,31089.0,21,election much policies soul america ballot kamalaharris,0.5,0.5,positive,election
+41,2020-10-19 17:07:00,It’s long past time we build an economy that rewards work — not wealth. https://t.co/rm9AK6rBxW,5935,26305.0,15,long past time build economy rewards work wealth,-0.15,0.325,negative,other
+42,2020-10-19 15:45:00,"Together, we can put an end to the last four years of darkness, division, and chaos.
+
+We can unite, mend our wounds… https://t.co/tqnBggchIT",9163,34739.0,22,together put end last four years darkness division chaos unite mend wounds,0.0,0.06666666666666667,neutral,other
+43,2020-10-19 15:25:35,RT @KamalaHarris: We the people have the power: https://t.co/MykJL0X5gt. https://t.co/5kzLNoHoBO,9782,106634.55,10,rt kamalaharris people power,0.0,0.0,neutral,other
+44,2020-10-19 13:30:00,15 days. Let’s finish strong.,43397,421425.0,5,15 days lets finish strong,0.4333333333333333,0.7333333333333333,positive,other
+45,2020-10-19 12:40:35,...yes https://t.co/RzZ3j3zoAL,181153,1276993.0,2,yes,0.0,0.0,neutral,other
+46,2020-10-19 01:00:00,"You have the power to own the outcome of this election — but only if you vote.
+
+Head to https://t.co/eoxT07uII9 and… https://t.co/1VLYpMa0fX",4727,22623.0,20,power outcome election vote head,0.3,1.0,positive,election
+47,2020-10-19 00:00:01,Wear a mask. Wash your hands. Vote out Donald Trump.,217090,1315285.0,10,wear mask wash hands vote donald trump,0.0,0.0,neutral,other
+48,2020-10-18 23:10:00,"I’ve had a rule my entire life: No matter what’s happening, no matter how important the meeting, I’ll always answer… https://t.co/mFjrG7jeIR",15338,136574.0,23,ive rule entire life matter whats happening matter important meeting ill always answer,0.2,0.8125,positive,other
+49,2020-10-18 22:15:00,"We are in a battle for the soul of the nation. 
+
+The forces of darkness, the forces of division, the forces of yest… https://t.co/28Ri8sf6AV",20600,118882.0,23,battle soul nation forces darkness forces division forces yest,0.0,0.0,neutral,other
+50,2020-10-18 21:48:43,"RT @TheDemocrats: If you live in any of these states and you plan to vote by mail, your ballot must be requested by sometime this week. Fin…",2087,106634.55,26,rt thedemocrats live states plan vote mail ballot must requested sometime week fin,0.13636363636363635,0.5,positive,other
+51,2020-10-18 21:35:00,I believe there is not a single thing we cannot accomplish as a country if we do it together. https://t.co/suxrTITkTm,9034,39605.0,21,believe single thing accomplish country together,0.03571428571428571,0.21428571428571427,positive,other
+52,2020-10-18 21:06:00,The truth is things in life are easier when you have a plan — and that includes voting. So my team set up a tool to… https://t.co/kMRzLPAm4O,3505,15099.0,25,truth things life easier plan includes voting team set tool,0.0,0.0,neutral,other
+53,2020-10-18 20:00:00,"From tackling climate change to making community college free for all — I've got big plans for the country.
+
+And I'… https://t.co/ILqzPOdjG6",15857,90112.0,20,tackling climate change making community college free got big plans country,0.2,0.45,positive,other
+54,2020-10-18 19:15:00,"I’ve spent my entire career fighting for a more just, safe, and prosperous America — and I’m not finished yet. https://t.co/cS3LPT7afX",6219,27173.0,22,ive spent entire career fighting safe prosperous america im finished yet,0.225,0.43125,positive,other
+55,2020-10-18 18:30:00,"COVID-19 cases are on the rise across the nation.
+
+But instead of leading by example, Donald Trump continues to put… https://t.co/qLJdT2e1uK",12493,59157.0,19,cases rise across nation instead leading example donald trump continues put,0.0,0.0,neutral,other
+56,2020-10-18 17:34:22,"I’m in Durham, North Carolina, encouraging folks to make their plan to vote early. Tune in — and then head to… https://t.co/EF0GyybFsx",2828,12772.0,21,im durham north carolina encouraging folks make plan vote early tune head,0.1,0.3,positive,other
+57,2020-10-18 17:00:00,"Folks, if you live in Illinois, today is your last day to register to vote online. Don’t wait, head to… https://t.co/GKVQfIT9IS",4502,16034.0,21,folks live illinois today last day register vote online dont wait head,0.06818181818181818,0.2833333333333333,positive,other
+58,2020-10-18 16:30:00,Chip in to help us make Donald Trump a one-term president: https://t.co/JR9S8cVokb,2165,10245.0,11,chip help us make donald trump president,0.0,0.0,neutral,other
+59,2020-10-18 15:08:00,Turns out Twitter isn’t so bad when you read tweets that aren’t from President Trump. https://t.co/ZKA2dwZQks,41011,183299.0,18,turns twitter isnt bad read tweets arent president trump,-0.6999999999999998,0.6666666666666666,negative,other
+60,2020-10-18 14:20:00,"I often think about what it takes for a Black person to love America. That is a deep love for this country that, fo… https://t.co/SRMYLyfmvb",5389,27858.0,24,often think takes black person love america deep love country fo,0.20833333333333334,0.5083333333333333,positive,other
+61,2020-10-18 00:30:00,"A job is about a lot more than a paycheck.
+
+It's about dignity. It's about respect. It's about being able to look y… https://t.co/Szog2ai1Oc",16166,103468.0,23,job lot paycheck dignity respect able look,0.5,0.5625,positive,other
+62,2020-10-17 23:15:00,Every day we're reminded just how much is at stake in this election. We can't afford to have anyone sit on the side… https://t.co/JeXE2f0m6u,4994,24765.0,23,every day reminded much stake election ca afford anyone sit side,0.2,0.2,positive,election
+63,2020-10-17 22:15:00,"In the middle of a pandemic, President Trump is trying to eliminate Obamacare and increase health care costs for mi… https://t.co/u0jHcfZsx1",14912,73788.0,20,middle pandemic president trump trying eliminate obamacare increase health care costs mi,0.0,0.0,neutral,other
+64,2020-10-17 21:15:00,"If we do our part, if we stand together, if we keep faith with the past and with each other — then the divisions of… https://t.co/RCopM8K5kH",10952,59897.0,24,part stand together keep faith past divisions,-0.1875,0.3125,negative,other
+65,2020-10-17 19:55:00,Promise? https://t.co/Wbl86i8uYo,42927,181684.0,2,promise,0.0,0.0,neutral,other
+66,2020-10-17 19:20:00,"This election is bigger than any one candidate. 
+
+It's about the future of our economy, our health care, our climat… https://t.co/jAKGJ2mt0l",3858,18263.0,20,election bigger one candidate future economy health care climat,0.0,0.3125,neutral,election
+67,2020-10-17 18:00:00,"As president, I’ll protect and build on Obamacare by:
+
+- Giving Americans the choice to buy a new public option
+- L… https://t.co/ujgavI0mVc",10072,52839.0,21,president ill protect build obamacare giving americans choice buy new public option l,0.06818181818181818,0.2606060606060606,positive,other
+68,2020-10-17 16:59:00,You deserve a president who will actually tell you the truth. https://t.co/I9XzZ0ADmT,10290,42159.0,12,deserve president actually tell truth,0.0,0.1,neutral,other
+69,2020-10-17 16:23:56,"RT @KamalaHarris: My mother raised me to see what could be, unburdened by what has been. https://t.co/5sNj8MmjvZ",8097,106634.55,17,rt kamalaharris mother raised see could unburdened,0.0,0.0,neutral,other
+70,2020-10-17 16:15:00,Nevada — early voting has officially started. Join the over 20 million people across the country who have already v… https://t.co/i4MoC5GF1i,3315,14579.0,18,nevada early voting officially started join 20 million people across country already v,0.1,0.3,positive,other
+71,2020-10-17 15:30:00,"Voting is your opportunity to be in the room where it happens.
+
+Don't throw away your shot: https://t.co/eoxT07d7QB https://t.co/uU5mRDGsXE",18280,72346.0,19,voting opportunity room happens throw away shot,0.0,0.0,neutral,other
+72,2020-10-17 14:30:00,"As the Hindu festival of Navratri begins, Jill and I send our best wishes to all those celebrating in the U.S. and… https://t.co/Ma1W5EqcnM",18226,141299.0,21,hindu festival navratri begins jill send best wishes celebrating,1.0,0.3,positive,other
+73,2020-10-17 14:01:00,"We’ve got to come together to defeat Donald Trump –– Democrats, Independents, Republicans, and yes, even Demo-cats. https://t.co/LtsTWy7MmI",45657,212298.0,17,weve got come together defeat donald trump democrats independents republicans yes even,0.0,0.0,neutral,other
+74,2020-10-17 00:32:00,"Folks, millions of you have already requested absentee ballots. It’s essential to return your ballots as soon as yo… https://t.co/Ktmzx8psWD",5061,18424.0,20,folks millions already requested absentee ballots essential return ballots soon yo,0.0,0.3,neutral,other
+75,2020-10-16 23:54:00,Violence against transgender and gender non-conforming people — particularly Black and Brown transgender women — is… https://t.co/GSKJ6O3B1e,7481,37018.0,13,violence transgender gender people particularly black brown transgender women,-0.16666666666666666,0.43333333333333335,negative,other
+76,2020-10-16 23:20:00,Let’s be clear: The emergency aid should have never been denied in the first place. https://t.co/GZuhSNSY7y,17014,93529.0,17,lets clear emergency aid never denied first place,0.17500000000000002,0.3583333333333333,positive,other
+77,2020-10-16 22:26:58,"The election is underway across the country, and millions of Americans have already cast their ballots. I’m in Detr… https://t.co/kZh1mBPjCd",2345,10782.0,20,election underway across country millions americans already cast ballots im detr,0.0,0.0,neutral,election
+78,2020-10-16 22:10:00,"Not only does President Trump refuse to grant Temporary Protected Status to Venezuelans, but he also apparently use… https://t.co/BaXNCIvUwg",5650,21663.0,18,president trump refuse grant temporary protected status venezuelans also apparently use,0.025,0.675,positive,other
+79,2020-10-16 21:30:00,"You have the power to prevent 2016 from happening again — but only if you vote.
+
+https://t.co/eoxT07d7QB https://t.co/ujWChoXpYK",15055,53507.0,16,power prevent 2016 happening vote,0.0,1.0,neutral,other
+80,2020-10-16 20:37:00,We need a president who will expand access to health care — not one who does everything he can to tear it away.,20620,156030.0,22,need president expand access health care one everything tear away,0.0,0.0,neutral,other
+81,2020-10-16 20:26:16,RT @TeamJoe: Join our Campaign Manager @jomalleydillon as she gives grassroots supporters like you an update on the state of the race: http…,717,106634.55,22,rt teamjoe join campaign manager jomalleydillon gives grassroots supporters like update state race,0.0,0.0,neutral,other
+82,2020-10-16 19:34:48,We can’t let President Trump tear down Obamacare — we have to protect and build on it. Tune in as I speak live from… https://t.co/hBkQVq9w5X,3202,14079.0,24,cant let president trump tear obamacare protect build tune speak live,-0.009595959595959616,0.3944444444444445,negative,other
+83,2020-10-16 17:57:00,"I know times are tough, but I promise our best days still lie ahead. Together, we're going to overcome these crises… https://t.co/SvCJYiftvo",19387,138339.0,21,know times tough promise best days still lie ahead together going overcome crises,0.3055555555555556,0.5666666666666667,positive,other
+84,2020-10-16 17:11:00,The cast of Hamilton knows we're engaged in a battle for this nation's very soul — and this election is too importa… https://t.co/Ozakcs3vKc,3951,20159.0,21,cast hamilton knows engaged battle nation soul election importa,0.2,0.3,positive,election
+85,2020-10-16 15:00:02,".@JLo and @AROD –– Jill and I are deeply grateful to have your support.
+
+Thank you for stepping up and speaking out… https://t.co/lrBSRoWbE2",7927,34884.0,21,jlo arod jill deeply grateful support thank stepping speaking,0.0,0.4,neutral,other
+86,2020-10-16 14:40:00,Louisiana –– early voting begins today across the state. Head to https://t.co/2NyiL42it7 to find all the info you need to cast your ballot.,3617,13726.0,22,louisiana early voting begins today across state head find info need cast ballot,0.1,0.3,positive,other
+87,2020-10-16 14:20:00,Nebraska — today is your last day to register to vote online and by mail. Head to https://t.co/K5rrtCjL7O to get re… https://t.co/y45ypaqCH2,3129,12775.0,20,nebraska today last day register vote online mail head get,0.0,0.06666666666666667,neutral,other
+88,2020-10-16 02:05:00,"I just stepped off the stage at tonight’s town hall, where I laid out what’s at stake in this election.
+
+Now, I nee… https://t.co/2wbzwKXrnw",4074,23331.0,25,stepped stage tonights town hall laid whats stake election nee,0.0,0.0,neutral,election
+89,2020-10-16 01:56:00,"If I'm elected president, you won't hear me race-baiting, you won't hear me dividing — you'll hear me trying to uni… https://t.co/8b6G628uFn",10466,56535.0,19,elected president wo hear wo hear dividing hear trying uni,0.0,0.0,neutral,other
+90,2020-10-16 01:53:00,"How will I ensure the rights of LGBTQ+ people are protected under U.S. law?
+
+I’ll change the law.",28416,235739.0,17,ensure rights people protected law ill change law,0.0,0.0,neutral,other
+91,2020-10-16 01:42:00,We have to heal this nation. https://t.co/wD45ZGcKO2,9119,54136.0,7,heal nation,0.0,0.0,neutral,other
+92,2020-10-16 01:33:00,"I'm running as a proud Democrat, but I'm going to be an American president. 
+
+I'm going to take care of those who v… https://t.co/idzloKA0zF",23966,178208.0,23,running proud democrat going american president going take care v,0.4,0.5,positive,other
+93,2020-10-16 01:29:00,"We're a diverse country — and unless we are able to treat people equally, we're just never going to meet our potential.",23217,155854.0,21,diverse country unless able treat people equally never going meet potential,0.16666666666666666,0.625,positive,other
+94,2020-10-16 01:02:00,"Folks, I hope I’m making you proud during tonight’s town hall.
+
+If you’re with us, please chip in to help power our… https://t.co/uiVZKulEXQ",4111,31523.0,25,folks hope im making proud tonights town hall youre us please chip help power,0.8,1.0,positive,other
+95,2020-10-16 00:47:00,"Two of the things I've cared about throughout my whole career:
+
+1. Improving the criminal justice system.
+2. Puttin… https://t.co/009IhSNn3k",4913,29424.0,17,two things cared throughout whole career improving criminal justice system puttin,-0.1,0.47500000000000003,negative,other
+96,2020-10-16 00:31:00,The words of a president matter. https://t.co/ABrbg5xTkg,6326,32729.0,7,words president matter,0.0,0.0,neutral,other
+97,2020-10-16 00:20:00,"Let me be very clear: If you make under $400,000 you won’t pay a penny more in taxes under my administration.",48797,367803.0,21,let clear make wont pay penny taxes administration,0.315,0.49916666666666665,positive,other
+98,2020-10-16 00:18:00,"The words of a president matter. And when a president doesn't wear a mask or makes fun of folks who do, it has consequences.",17704,121197.0,24,words president matter president wear mask makes fun folks consequences,0.3,0.2,positive,other
+99,2020-10-16 00:13:00,"Over 215,000 Americans have died from COVID-19, and what is President Trump doing?
+
+Nothing.",5996,32427.0,12,americans died president trump nothing,0.0,0.0,neutral,other
+100,2020-10-16 00:11:00,"We're eight months into this pandemic, and Donald Trump still doesn't have a plan to get this virus under control.
+
+I do.",10471,72394.0,22,eight months pandemic donald trump still plan get virus control,0.0,0.0,neutral,other
+101,2020-10-15 23:47:00,"I’m about to step on stage for tonight’s town hall in Philadelphia, Pennsylvania. Tune in to @ABC to watch live.",9359,89554.0,22,im step stage tonights town hall philadelphia pennsylvania tune abc watch live,0.13636363636363635,0.5,positive,other
+102,2020-10-15 23:21:00,"This is not a moment — it's a movement.
+
+Rise up and be a part of it with the original cast of Hamilton.
+
+Chip in t… https://t.co/tVChJhPL2p",3494,19209.0,25,moment movement rise part original cast hamilton chip,0.375,0.75,positive,other
+103,2020-10-15 21:31:00,"Well, folks, @KamalaHarris and I watched some of President Trump’s remarks from the campaign trail — and it went ju… https://t.co/GUpldsPRTS",18530,102891.0,20,well folks kamalaharris watched president trumps remarks campaign trail went ju,0.0,0.0,neutral,other
+104,2020-10-15 20:38:08,"Our campaign’s contact tracing remains ongoing, and my team will continue to share any significant developments wit… https://t.co/FSDfUEknvU",2675,39885.0,18,campaigns contact tracing remains ongoing team continue share significant developments wit,0.375,0.875,positive,other
+105,2020-10-15 20:37:26,"Not only was the individual 50+ feet away and wearing a mask, but I was wearing an N-95 mask. No members of my staf… https://t.co/h3XGxKaz2H",2353,36791.0,22,individual feet away wearing mask wearing mask members staf,0.0,0.7,neutral,other
+106,2020-10-15 20:36:44,"During our contact tracing, we discovered around noon today that a member of the company that charters my airplane… https://t.co/9POncpQDSr",7039,85807.0,19,contact tracing discovered around noon today member company charters airplane,0.0,0.0,neutral,other
+107,2020-10-15 20:00:01,Donald Trump is rushing through Justice Ginsburg's replacement because he's laser-focused on destroying the Afforda… https://t.co/BJngxrJa9p,3420,13195.0,14,donald trump rushing justice ginsburg replacement destroying afforda,-0.2,0.0,negative,other
+108,2020-10-15 19:15:00,President Obama and I left Donald Trump a booming economy — and he caused a recession. He squandered it just like h… https://t.co/tUhP63W2e8,49356,332959.0,21,president obama left donald trump booming economy caused recession squandered like h,0.0,0.0,neutral,other
+109,2020-10-15 18:30:00,Nevada — today is the last day to register to vote online to automatically receive a ballot in the mail. Head to… https://t.co/olNDVH4jG0,2302,9163.0,21,nevada today last day register vote online automatically receive ballot mail head,0.0,0.06666666666666667,neutral,other
+110,2020-10-15 18:00:00,"Donald Trump can lie about the economy all he wants, but the truth is he’s the worst jobs president since 1929. https://t.co/lShe254BEG",30934,87320.0,22,donald trump lie economy wants truth hes worst jobs president since 1929,-0.4,0.55,negative,other
+111,2020-10-15 17:25:00,This #SpiritDay — and every day — we must stand up to hate and intolerance. It’s up to all of us to ensure every yo… https://t.co/w4upt7Q40N,6726,37016.0,24,spiritday every day must stand hate intolerance us ensure every yo,-0.8,0.9,negative,other
+112,2020-10-15 16:48:00,Arizona — ¡la fecha límite para registrarte para votar en Arizona ha sido extendida! Visita https://t.co/nApec6sbPe… https://t.co/ccHPm6gN76,1818,8178.0,15,arizona la fecha lmite para registrarte para votar en arizona ha sido extendida visita,0.0,0.0,neutral,other
+113,2020-10-15 15:52:00,Arizona — your voter registration deadline has been extended! Head to https://t.co/2fKBLS6oXu to get registered onl… https://t.co/Y4atwUGJpL,3655,12597.0,15,arizona voter registration deadline extended head get registered onl,0.0,0.0,neutral,other
+114,2020-10-15 14:47:36,"RT @KamalaHarris: I will be transparent with you about any test results that I do receive. In the meantime, remember: wear a mask, practice…",6859,106634.55,23,rt kamalaharris transparent test results receive meantime remember wear mask practice,0.0,0.0,neutral,other
+115,2020-10-15 14:47:34,"RT @KamalaHarris: Both the crew member and the staff member were wearing N95 masks at all points they were near me, and our doctors believe…",4222,106634.55,23,rt kamalaharris crew member staff member wearing n95 masks points near doctors believe,0.1,0.4,positive,other
+116,2020-10-15 14:47:32,"RT @KamalaHarris: Late last night, I learned a non-staff flight crew member &amp; a member of my team tested positive for COVID. I wasn’t in cl…",11824,106634.55,25,rt kamalaharris late last night learned flight crew member member team tested positive covid wasnt cl,-0.024242424242424242,0.404040404040404,negative,other
+117,2020-10-15 14:45:00,North Carolina –– early voting begins today across the state. Head to https://t.co/3bJfY7O8Ap for all the info you… https://t.co/HLW5lquT37,4494,18338.0,17,north carolina early voting begins today across state head info,0.1,0.3,positive,other
+118,2020-10-15 13:45:00,The fact that Senate Republicans haven’t bothered to pass a COVID relief package but are rushing through President… https://t.co/9YLU18BBeT,49459,272761.0,19,fact senate republicans havent bothered pass covid relief package rushing president,0.0,0.0,neutral,other
+119,2020-10-15 02:52:00,I heard it's #NationalDessertDay https://t.co/RtBhurORwR,19386,236367.0,5,heard nationaldessertday,0.0,0.0,neutral,other
+120,2020-10-15 02:38:06,Nature knows. https://t.co/JNSOxAUDLu,4689,30676.0,3,nature knows,0.0,0.0,neutral,other
+121,2020-10-15 02:02:00,"Folks, we can’t let up. We’re just a few hours away from our last public fundraising deadline before Election Day,… https://t.co/onlr4bpJdZ",2543,12443.0,23,folks cant let hours away last public fundraising deadline election day,-0.06666666666666667,0.07777777777777778,negative,election
+122,2020-10-15 01:18:00,"To every person who chipped in a few dollars last month — thank you. Because of your support, we raised an astoundi… https://t.co/jwLLHujnJa",8708,47921.0,21,every person chipped dollars last month thank support raised astoundi,-0.1,0.08333333333333334,negative,other
+123,2020-10-14 22:58:00,"Vote for America.
+
+https://t.co/eoxT07uII9 https://t.co/sBd51fgmln",57143,177997.0,5,vote america,0.0,0.0,neutral,other
+124,2020-10-14 22:30:00,"If President Trump has his way in the U.S. Supreme Court, long-term complications from COVID-19, like lung scarring… https://t.co/UD1reONgXt",18295,85706.0,15,president trump way supreme court complications like lung scarring,0.0,0.0,neutral,other
+125,2020-10-14 21:40:00,"There's only one way to end this horror: Vote.
+
+https://t.co/eoxT07uII9 https://t.co/3RTLmdyzMa",13848,51548.0,11,one way end horror vote,0.0,1.0,neutral,other
+126,2020-10-14 21:15:00,Rhode Island and Tennessee — early voting has officially started. Join millions of people across the country and vo… https://t.co/BGzvhDWwNG,2960,14127.0,18,rhode island tennessee early voting officially started join millions people across country vo,0.1,0.3,positive,other
+127,2020-10-14 20:37:00,Don't throw away your shot to spend Friday night with the original cast of Hamilton. Chip in today to reserve your… https://t.co/4qwgLwe1m2,3311,15978.0,21,throw away shot spend friday night original cast hamilton chip today reserve,0.375,0.75,positive,other
+128,2020-10-14 19:40:00,"Today would have been George Floyd’s 47th birthday, and he should be alive to celebrate it.
+
+I made a promise to hi… https://t.co/X46apsjz5p",28521,199686.0,22,today would george floyds 47th birthday alive celebrate made promise hi,0.1,0.4,positive,other
+129,2020-10-14 18:30:00,"Tonight, our campaign will close our books and send in the names of our grassroots supporters for the final time.… https://t.co/7dCC9kXHeF",2332,10644.0,20,tonight campaign close books send names grassroots supporters final time,0.0,1.0,neutral,other
+130,2020-10-14 18:01:00,Virginia — your voter registration deadline has been extended! Head to https://t.co/fnQjqg1By6 to get registered on… https://t.co/11Gizy4AEl,5275,17862.0,15,virginia voter registration deadline extended head get registered,0.0,0.0,neutral,other
+131,2020-10-14 16:35:00,"Donald Trump wants to destroy Obamacare.
+
+I want to protect and build on it.
+
+It’s that simple, folks.",23515,168657.0,19,donald trump wants destroy obamacare want protect build simple folks,0.0,0.1523809523809524,neutral,other
+132,2020-10-14 15:35:00,"If President Trump is successful in forcing through his nominee to the U.S. Supreme Court, it will likely repeal th… https://t.co/z57hZet67D",6280,22403.0,19,president trump successful forcing nominee supreme court likely repeal th,0.375,0.975,positive,other
+133,2020-10-14 15:02:00,Kansas –– you can advance vote in many counties starting today. Head to https://t.co/UXWStEl2zn to find all the inf… https://t.co/QWAbZCiFER,3245,12930.0,18,kansas advance vote many counties starting today head find inf,0.25,0.3,positive,other
+134,2020-10-14 14:32:00,Wisconsin — today is your last day to register to vote online or by mail. Apply online by 11:59 PM or make sure you… https://t.co/PZ1K032UDQ,5089,16571.0,22,wisconsin today last day register vote online mail apply online pm make sure,0.25,0.47777777777777775,positive,other
+135,2020-10-14 13:27:00,20 days.,27214,281107.0,1,20 days,0.0,0.0,neutral,other
+136,2020-10-14 01:30:00,"Thank you, Florida! https://t.co/liQYRmvY7J",18061,156973.0,4,thank florida,0.0,0.0,neutral,other
+137,2020-10-14 00:45:00,I’ll be a president for all Americans. Not just the ones who vote for me.,40758,410290.0,16,ill president americans ones vote,0.0,0.0,neutral,other
+138,2020-10-13 23:45:00,"Folks, it’s hard to believe, but tomorrow night marks our final public fundraising deadline of the campaign.
+
+Can y… https://t.co/fBFPNaQrHB",2862,10904.0,20,folks hard believe tomorrow night marks final public fundraising deadline campaign,-0.09722222222222222,0.5361111111111111,negative,other
+139,2020-10-13 23:16:00,Here's something that will be very different if I'm president: I'll actually listen to Dr. Fauci's advice and exper… https://t.co/usrU6r6yS1,16592,105042.0,18,something different president actually listen fauci advice exper,0.0,0.44,neutral,other
+140,2020-10-13 22:45:00,"We all know President Trump has a tendency to stray from the truth, so let's set the record straight. https://t.co/hMtEkvECQR",12104,35757.0,20,know president trump tendency stray truth let set record straight,0.2,0.4,positive,other
+141,2020-10-13 22:03:00,"The election is already underway.
+
+Millions of Americans are voting. 
+
+And they deserve to have their voices heard… https://t.co/wDxFAA7TaZ",14455,87044.0,18,election already underway millions americans voting deserve voices heard,0.0,0.0,neutral,election
+142,2020-10-13 21:20:53,"With just three weeks until Election Day, I’m in Miramar, Florida, to encourage folks to make their plan to vote. T… https://t.co/udUIwjBj7F",2128,9787.0,22,three weeks election day im miramar florida encourage folks make plan vote,0.0,0.0,neutral,election
+143,2020-10-13 20:15:00,"215,000 Americans have died from COVID-19 on Donald Trump’s watch. 
+
+It’s the greatest failure of presidential lead… https://t.co/qgIVxc13Yf",25388,138695.0,17,americans died donald trumps watch greatest failure presidential lead,0.3416666666666667,0.65,positive,other
+144,2020-10-13 18:57:39,"I’m in Pembroke Pines, Florida, to discuss my plans to protect and strengthen Social Security and ensure every Amer… https://t.co/vmhHUFcGMP",3028,13218.0,20,im pembroke pines florida discuss plans protect strengthen social security ensure every amer,0.03333333333333333,0.06666666666666667,positive,other
+145,2020-10-13 17:46:00,"Folks, we have arrived at the final frontier of this election — and your support is more important than ever. Chip… https://t.co/8LLNfUJczU",2630,11044.0,20,folks arrived final frontier election support important ever chip,0.3,0.8333333333333334,positive,election
+146,2020-10-13 17:18:00,Kentucky — in-person early voting begins today across the state. Head to https://t.co/JRj2A8zKYo and make your plan to vote.,3858,16853.0,17,kentucky early voting begins today across state head make plan vote,0.1,0.3,positive,other
+147,2020-10-13 16:35:00,"If you live in:
+
+Kansas
+Louisiana
+Maryland
+Minnesota
+New Jersey
+Oregon
+Virginia
+Washington D.C.
+West Virginia
+
+Toda… https://t.co/zh9BUNNHOQ",9227,21790.0,16,live kansas louisiana maryland minnesota new jersey oregon virginia washington west virginia toda,0.13636363636363635,0.4772727272727273,positive,other
+148,2020-10-13 16:02:00,"Texas — early voting begins today across the state.
+
+Your voice can change the course of history — use it.
+
+Head to… https://t.co/076ygH3oNz",10702,38872.0,20,texas early voting begins today across state voice change course history use head,0.1,0.3,positive,other
+149,2020-10-13 15:30:52,"@KamalaHarris @DouglasEmhoff Happy Birthday, @DouglasEmhoff!",966,18443.0,5,kamalaharris douglasemhoff happy birthday douglasemhoff,1.0,1.0,positive,other
+150,2020-10-13 14:45:00,"Donald Trump has been trying to throw out Obamacare for years.
+
+And now he sees an opportunity to finally get it do… https://t.co/JQjceVxfUk",13421,82402.0,22,donald trump trying throw obamacare years sees opportunity finally get,0.0,1.0,neutral,other
+151,2020-10-13 14:24:25,"RT @TheDemocrats: There’s a lot at stake in this election, and it’s critical you vote.
+
+Hear from voting enthusiast President @BarackObama…",2241,106634.55,22,rt thedemocrats theres lot stake election critical vote hear voting enthusiast president barackobama,0.0,0.8,neutral,election
+152,2020-10-13 13:35:00,"Three weeks from today, we’re going to make Donald Trump a one-term president.",82297,730900.0,13,three weeks today going make donald trump president,0.0,0.0,neutral,other
+153,2020-10-13 01:15:00,"I am ready to fight for you and for our nation. Every day. Without exception, without reservation. And with a full and devoted heart.",22557,178627.0,24,ready fight nation every day without exception without reservation full devoted heart,0.275,0.525,positive,other
+154,2020-10-13 00:15:00,We need a president who will unite our country and bring out our best — not one who stokes division and brings out our worst.,24803,189810.0,24,need president unite country bring best one stokes division brings worst,0.0,0.65,neutral,other
+155,2020-10-12 23:35:00,"Folks, we're just a few days away from our final public fundraising deadline, and we need your help to hit our goal… https://t.co/NA1IufSq45",2471,9770.0,22,folks days away final public fundraising deadline need help hit goal,-0.06666666666666667,0.3888888888888889,negative,other
+156,2020-10-12 23:10:00,"On National Farmers Day, we honor the hardworking men and women who drive our economy, fuel our rural communities,… https://t.co/AhdHO9ka5n",5330,28758.0,20,national farmers day honor hardworking men women drive economy fuel rural communities,0.0,0.0,neutral,other
+157,2020-10-12 22:40:00,"Today marks 22 years since Matthew Shepard passed away after a brutal anti-gay hate crime. Over two decades later,… https://t.co/ZcUEuSe7Vv",25789,154513.0,18,today marks 22 years since matthew shepard passed away brutal hate crime two decades later,-0.8375,0.95,negative,other
+158,2020-10-12 21:39:01,There's no question: we are neck and neck in Ohio — and with early voting underway and only 22 days until Election… https://t.co/fvt69wjGb6,3200,13258.0,20,question neck neck ohio early voting underway 22 days election,0.05,0.65,positive,election
+159,2020-10-12 21:39:00,"Donald Trump is running TV ads taking Dr. Fauci out of context and without his permission.
+
+So, here’s a message fr… https://t.co/Fo4Xz3ngJI",64151,211685.0,21,donald trump running tv ads taking fauci context without permission heres message fr,0.0,0.0,neutral,other
+160,2020-10-12 21:30:33,"RT @staceyabrams: GEORGIA VOTERS: Today, 10/12, is the first day to vote early in person! Go to https://t.co/XYLW8Buumc to find a location…",1787,106634.55,20,rt staceyabrams georgia voters today first day vote early person go find location,0.1875,0.31666666666666665,positive,other
+161,2020-10-12 20:04:00,"The longer Donald Trump is president, the more reckless he gets.",41592,366213.0,11,longer donald trump president reckless gets,0.5,0.5,positive,other
+162,2020-10-12 18:22:00,I know Americans aren’t looking for a handout. They just want a fair chance to get ahead — and I’ll work every day… https://t.co/Zj2d80Jj6R,17480,131135.0,24,know americans arent looking handout want fair chance get ahead ill work every day,0.7,0.9,positive,other
+163,2020-10-12 17:32:41,"I'm in Toledo, Ohio, to discuss my plans to build the economy back better for working families. Tune in. https://t.co/MXlsFdS3Xt",3377,16009.0,20,toledo ohio discuss plans build economy back better working families tune,0.25,0.25,positive,other
+164,2020-10-12 17:22:24,RT @SnoopDogg: Listen up. It's time to vote! Go to https://t.co/0yzHjJV1f8 to find out how you can drop your ballot in the dropbox like it'…,7617,106634.55,24,rt snoopdogg listen time vote go find drop ballot dropbox like,0.0,0.0,neutral,other
+165,2020-10-12 16:30:00,"Georgia — you don’t have to wait until November 3rd to cast your ballot. Early voting begins today.
+
+Head to… https://t.co/QMeO1NxCFc",5652,22217.0,19,georgia dont wait november 3rd cast ballot early voting begins today head,0.05,0.15,positive,other
+166,2020-10-12 15:56:56,RT @DrBiden: How it started:            How it's going: https://t.co/8IiIHfXCn0,28311,106634.55,9,rt drbiden started going,0.0,0.0,neutral,other
+167,2020-10-12 15:41:00,"On this Indigenous People’s Day, we must both recognize the past that has brought us here, and commit to one anothe… https://t.co/lIzA886ayC",7974,38856.0,22,indigenous peoples day must recognize past brought us commit one anothe,-0.25,0.25,negative,other
+168,2020-10-12 14:15:00,"Health care is deeply personal to me. And I guarantee you that if I'm elected president, I will protect your family… https://t.co/N5NMd1jInx",15515,76167.0,21,health care deeply personal guarantee elected president protect family,0.0,0.3,neutral,other
+169,2020-10-12 00:30:00,"From Seneca Falls to Selma to Stonewall, we’re at our best when the promise of America is available to all.",12679,92213.0,21,seneca falls selma stonewall best promise america available,0.7,0.35,positive,other
+170,2020-10-11 23:40:00,"Brayden — you have heart, courage, and maturity beyond your years. You have unlimited potential — and I can't wait… https://t.co/AR4jX30Twy",24887,132668.0,18,brayden heart courage maturity beyond years unlimited potential ca wait,0.0,1.0,neutral,other
+171,2020-10-11 22:45:00,"This election, you have the power to choose:
+
+Hope over fear.
+Truth over lies.
+Unity over division.
+
+Vote. https://t.co/eoxT07uII9",11343,61187.0,19,election power choose hope fear truth lies unity division vote,0.0,0.0,neutral,election
+172,2020-10-11 21:30:00,"I helped pull this country out of a recession before — and, as president, I’ll do it again.",50658,470705.0,18,helped pull country recession president ill,0.0,0.0,neutral,other
+173,2020-10-11 20:30:00,"In January, I said President Trump was the worst possible leader to deal with a public health crisis. And everythin… https://t.co/ssrM90sOze",11590,42420.0,20,january said president trump worst possible leader deal public health crisis everythin,-0.3333333333333333,0.688888888888889,negative,other
+174,2020-10-11 19:30:00,"When President Trump was told one thousand Americans were dying every day from COVID-19, he shrugged it off and sai… https://t.co/OnpTYrp9cx",27159,150808.0,19,president trump told one thousand americans dying every day shrugged sai,0.0,0.0,neutral,other
+175,2020-10-11 17:30:00,"Today we join Polish-Americans in celebrating General Pulaski, whose heroism built the American cavalry and saved t… https://t.co/A7UJBNMSIh",6583,45939.0,16,today join celebrating general pulaski whose heroism built american cavalry saved,0.02500000000000001,0.25,positive,other
+176,2020-10-11 16:50:00,"Today, let's all celebrate the one billion girls and young women around the world — and recommit to fight for their… https://t.co/QMGA2cR1Lr",13799,86225.0,20,today let celebrate one billion girls young women around world recommit fight,0.1,0.4,positive,other
+177,2020-10-11 16:02:00,I want every member of the LGBTQ+ community to know you are loved and accepted just as you are — whether you've com… https://t.co/M0UaQxT1Ku,56959,323244.0,21,want every member community know loved accepted whether com,0.7,0.8,positive,other
+178,2020-10-11 15:22:00,There is no excuse for President Trump’s reckless behavior. https://t.co/ooUh6pxRDt,25400,85275.0,11,excuse president trumps reckless behavior,0.025,0.05,positive,other
+179,2020-10-11 00:00:00,"One in five small businesses have closed.
+More than 25 million Americans are on unemployment.
+Millions are at risk… https://t.co/kt3Fj7WK1W",18057,91153.0,18,one five small businesses closed 25 million americans unemployment millions risk,0.05000000000000001,0.3333333333333333,positive,other
+180,2020-10-10 23:00:01,"America has to be about the possibilities of prosperity. 
+
+Not just for the privileged few. But for the many — for all of us.",12202,81448.0,23,america possibilities prosperity privileged many us,0.15,0.3,positive,other
+181,2020-10-10 21:50:00,"The fact is this pandemic has exposed the cracks in our already broken mental health care system.
+
+We can and must… https://t.co/tGuJojkOCM",11028,64657.0,21,fact pandemic exposed cracks already broken mental health care system must,-0.25,0.30000000000000004,negative,other
+182,2020-10-10 20:55:33,"I’m in Erie, Pennsylvania, to discuss my plans to build back better. Tune in. https://t.co/8NqGra1egn",3470,18134.0,16,im erie pennsylvania discuss plans build back better tune,0.25,0.25,positive,other
+183,2020-10-10 20:20:00,"We're eight months into this crisis, and this president still has no plan to rebuild our economy.
+
+I do. I'll get A… https://t.co/JEJztTk4OB",6542,29766.0,22,eight months crisis president still plan rebuild economy get,0.0,0.0,neutral,other
+184,2020-10-10 19:30:00,"Let’s go vote, America.
+
+https://t.co/eoxT07d7QB https://t.co/Nso0pXH7ER",28368,206247.0,7,lets go vote america,0.0,0.0,neutral,other
+185,2020-10-10 17:45:00,We need a president who understands hardworking Americans — not one who looks down on them.,33632,290297.0,15,need president understands hardworking americans one looks,-0.15555555555555559,0.2888888888888889,negative,other
+186,2020-10-10 16:48:00,"What does building back better mean for you?
+
+- Millions of new, good-paying jobs
+- A $15 federal minimum wage
+- St… https://t.co/c7a7JXHSnQ",10865,56129.0,17,building back better mean millions new jobs 15 federal minimum wage st,0.08096590909090909,0.41051136363636365,positive,other
+187,2020-10-10 16:04:23,"RT @HillaryClinton: It’s going great. 
+
+If everyone joins me in giving at https://t.co/mxkpLIOEux every time they say “lock her up” or “cro…",19515,106634.55,22,rt hillaryclinton going great everyone joins giving every time say lock cro,0.8,0.75,positive,other
+188,2020-10-10 15:22:00,"If you're sick, struggling, or worried about how you're going to get through the day — know you are not alone.
+
+We'… https://t.co/7g2rajgI9W",8051,31524.0,21,sick struggling worried going get day know alone,-0.7142857142857143,0.8571428571428571,negative,other
+189,2020-10-10 14:55:00,To all my fellow Delawareans — today is your last day to register to vote. Head to https://t.co/CMstw01RMW to get registered today.,4137,17083.0,21,fellow delawareans today last day register vote head get registered today,0.0,0.06666666666666667,neutral,other
+190,2020-10-10 14:44:44,"RT @KamalaHarris: As a proud graduate of Howard University, I’m always excited to hear from HBCU students. We are family—no matter which sc…",8851,106634.55,22,rt kamalaharris proud graduate howard university im always excited hear hbcu students familyno matter sc,0.5875,0.875,positive,other
+191,2020-10-10 13:35:00,"Over 213,000 Americans have died from this virus — and the hard truth is it didn’t have to happen this way. https://t.co/27TL7PAhCi",9036,34670.0,21,americans died virus hard truth didnt happen way,-0.2916666666666667,0.5416666666666666,negative,other
+192,2020-10-10 00:20:00,"You and I can change the course of history.
+
+Vote: https://t.co/eoxT07uII9 https://t.co/r1GFkkUkyt",8423,43473.0,12,change course history vote,0.0,0.0,neutral,other
+193,2020-10-09 23:49:56,"40,000 people a day are coming down with the coronavirus. What is the matter with this guy? https://t.co/N71KynIX2k",43529,193044.0,17,people day coming coronavirus matter guy,-0.15555555555555559,0.2888888888888889,negative,other
+194,2020-10-09 22:30:00,John — and farmers across the country — can’t afford four more years of a climate change denier in the White House. https://t.co/Nnv3XPdDlx,9750,43737.0,22,john farmers across country cant afford four years climate change denier white house,0.25,0.25,positive,other
+195,2020-10-09 21:25:20,Tune in as I deliver remarks from our drive-in event in Las Vegas. https://t.co/wWSWQgfyw6,2846,12931.0,13,tune deliver remarks event las vegas,0.0,0.0,neutral,other
+196,2020-10-09 20:05:00,"It’s estimated that nearly another 200,000 Americans could lose their lives by the end of the year because of this… https://t.co/uLcPvW0Hb4",18085,99806.0,20,estimated nearly another americans could lose lives end year,0.1,0.4,positive,other
+197,2020-10-09 18:52:00,"Why did Donald Trump tell Bob Woodward the truth about COVID-19, but not the American people?",45574,295094.0,15,donald trump tell bob woodward truth american people,0.0,0.0,neutral,other
+198,2020-10-09 18:27:16,"RT @TeamJoe: Are you an extrovert?
+Are you an introvert?
+Are you an introverted extrovert?
+Are you an extroverted introvert?
+Are you an  __…",559,106634.55,23,rt teamjoe extrovert introvert introverted extrovert extroverted introvert,0.0,0.0,neutral,other
+199,2020-10-09 17:36:12,RT @TheDemocrats: 2️⃣5️⃣ days. There’s no time to waste. Make your voting plan. https://t.co/ZKn8fJEh9z https://t.co/4UfUiv8P5B,1611,106634.55,15,rt thedemocrats 25 days theres time waste make voting plan,-0.2,0.0,negative,other

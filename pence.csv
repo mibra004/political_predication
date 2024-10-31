@@ -1,0 +1,284 @@
+,create_time,text,retweets,favorites,word_tokens,text_clean,polarity,subjectivity,sentiment_2,keywords
+0,2020-10-22 00:49:33,"RT @realDonaldTrump: THANK YOU NORTH CAROLINA!
+https://t.co/O3m7HWVlcq",3614,0,7,rt realdonaldtrump thank north carolina,0.0,0.0,neutral,other
+1,2020-10-22 00:49:24,"RT @realDonaldTrump: The Radical Biden-Harris Agenda is projected to slash the typical American’s income by $6,500 per year. They will rais…",2819,0,19,rt realdonaldtrump radical agenda projected slash typical americans income per year rais,-0.08333333333333333,0.25,negative,other
+2,2020-10-22 00:37:55,"RT @KarenPence: Great day in Mount Joy, Pennsylvania! 🇺🇸We know fracking has helped to lower energy bills for your families and businesses.…",253,0,20,rt karenpence great day mount joy pennsylvania know fracking helped lower energy bills families businesses,0.9,0.475,positive,other
+3,2020-10-22 00:36:22,RT @TeamTrump: President @realDonaldTrump: The first thing Washington Democrats will do if Biden gets elected is pack the Supreme Court wit…,657,0,20,rt teamtrump president realdonaldtrump first thing washington democrats biden gets elected pack supreme court wit,0.25,0.3333333333333333,positive,other
+4,2020-10-22 00:36:11,"RT @TrumpWarRoom: Claim: “On day one, Joe Biden’s going to raise your taxes""
+
+Rating: True https://t.co/XS8JEXFhpe",3297,0,17,rt trumpwarroom claim day one joe bidens going raise taxes rating true,0.35,0.65,positive,other
+5,2020-10-22 00:36:04,RT @TeamTrump: President @realDonaldTrump: Biden will raise taxes by $4 trillion triggering a mass exodus of jobs out of America https://t.…,652,0,20,rt teamtrump president realdonaldtrump biden raise taxes 4 trillion triggering mass exodus jobs america,0.0,0.0,neutral,other
+6,2020-10-21 23:59:31,What an INCREDIBLE night it was in the Buckeye state! President @realDonaldTrump will always put the great people o… https://t.co/B6hzlk8gfS,355,2114,19,incredible night buckeye state president realdonaldtrump always put great people,0.9,0.825,positive,other
+7,2020-10-21 23:53:57,"THANK YOU OHIO! LET’S MAKE AMERICA GREAT AGAIN, AGAIN! 🇺🇸 https://t.co/yar0gqtVml",460,3307,11,thank ohio lets make america great,1.0,0.75,positive,other
+8,2020-10-21 23:53:25,"Where Joe Biden &amp; Kamala Harris support taxpayer funded abortion, President @realDonaldTrump reinstated the Mexico… https://t.co/wc4peUxVjs",422,2130,15,joe biden kamala harris support taxpayer funded abortion president realdonaldtrump reinstated mexico,0.0,0.0,neutral,other
+9,2020-10-21 23:52:37,"President @realDonaldTrump restored the conscience rights of doctors, nurses, teachers, and religious charities and… https://t.co/NzNnxBJAUW",767,4391,14,president realdonaldtrump restored conscience rights doctors nurses teachers religious charities,0.0,0.25,neutral,other
+10,2020-10-21 23:52:36,"When Joe Biden was Vice President, we saw a steady assault on religious freedom and they even hauled a group of nuns into federal court.",1730,6966,25,joe biden vice president saw steady assault religious freedom even hauled group nuns federal court,0.08333333333333333,0.375,positive,other
+11,2020-10-21 23:51:23,"Ohio is WINNING under President @realDonaldTrump with 82,000 JOBS created in just three years! That’s Promises Made… https://t.co/ydLTBxBIsd",554,2928,17,ohio winning president realdonaldtrump jobs created three years thats promises made,0.625,0.75,positive,other
+12,2020-10-21 23:50:59,"RT @markknoller: “He’s gonna take the stage and take the fight straight to Joe Biden, and I can’t wait,” says VP Pence on what he expects o…",178,0,29,rt markknoller hes gon na take stage take fight straight joe biden cant wait says vp pence expects,0.2,0.4,positive,other
+13,2020-10-21 23:44:00,"RT @TeamTrump: LIVE: President Donald Trump in Gastonia, NC #NorthCarolina
+
+Text VOTE to 88022 https://t.co/rtjWcnBFlH",1283,0,14,rt teamtrump live president donald trump gastonia nc northcarolina text vote 88022,0.13636363636363635,0.5,positive,other
+14,2020-10-21 23:36:47,RT @KarenPence: MAKE PENNSYLVANIA RED AGAIN! @realDonaldTrump @Mike_Pence @TeamTrump 🇺🇸,1677,0,8,rt karenpence make pennsylvania red realdonaldtrump teamtrump,0.0,0.0,neutral,other
+15,2020-10-21 23:36:46,RT @KarenPence: President ⁦@realDonaldTrump⁩ fights every day to put Americans first!  #FourMoreYears 🇺🇸 https://t.co/8fV6cf8pIg,351,0,12,rt karenpence president realdonaldtrump fights every day put americans first fourmoreyears,0.3125,0.3333333333333333,positive,other
+16,2020-10-21 23:36:39,RT @realDonaldTrump: See you soon North Carolina! https://t.co/hfbrBTgu15,7341,0,8,rt realdonaldtrump see soon north carolina,0.0,0.0,neutral,other
+17,2020-10-21 21:21:53,Just landed in the Buckeye State where Americans are ready for four more years of President @realDonaldTrump! 🇺🇸,3832,24082,17,landed buckeye state americans ready four years president realdonaldtrump,0.4125,0.5,positive,other
+18,2020-10-21 19:38:35,"Next up: OHIO!
+
+See you soon! #MAGA https://t.co/r6y0lArUw0 https://t.co/MXaVSp27aY",504,3667,9,next ohio see soon maga,0.0,0.0,neutral,other
+19,2020-10-21 19:18:20,"RT @TeamTrump: Vice President @MIke_Pence: We will always defend freedom of speech, we are not going to let Big Tech block the truth https:…",659,0,23,rt teamtrump vice president always defend freedom speech going let big tech block truth,0.0,0.1,neutral,other
+20,2020-10-21 19:18:16,"RT @TeamTrump: Vice President @Mike_Pence on Joe Biden dodging court packing questions: ""C’mon man, the American people deserve a straight…",1005,0,19,rt teamtrump vice president joe biden dodging court packing questions cmon man american people deserve straight,0.0,0.0,neutral,other
+21,2020-10-21 19:16:34,THANK YOU NEW HAMPSHIRE! LIVE FREE OR DIE! 🇺🇸 https://t.co/Zl1Zicj0q3,871,5445,9,thank new hampshire live free die,0.2689393939393939,0.5848484848484848,positive,other
+22,2020-10-21 19:16:28,"With FOUR MORE YEARS of President @realDonaldTrump, we’ll maintain America’s unrivaled military might, we’ll make A… https://t.co/6VdUGiZpE5",479,2662,19,four years president realdonaldtrump well maintain americas unrivaled military might well make,0.2,0.3,positive,other
+23,2020-10-21 19:15:39,"For our families, for our jobs, and for an economic comeback, we need President @realDonaldTrump in the @WhiteHouse… https://t.co/llomIqXxum",598,4237,18,families jobs economic comeback need president realdonaldtrump whitehouse,0.2,0.2,positive,other
+24,2020-10-21 19:15:39,"Men and women of New Hampshire, we have a choice to make. It’s between a Trump recovery or a Biden Depression. Amer… https://t.co/Zortr0CNTY",1505,7490,23,men women new hampshire choice make trump recovery biden depression amer,0.13636363636363635,0.45454545454545453,positive,other
+25,2020-10-21 19:14:23,Joe Biden &amp; the radical left want to crush American energy under a $2T Green New Deal that would COST American jobs… https://t.co/McY2qOwPNd,592,2793,21,joe biden radical left want crush american energy 2t green new deal would cost american jobs,-0.012727272727272731,0.1509090909090909,negative,other
+26,2020-10-21 18:15:51,RT @TeamTrump: Vice President @Mike_Pence: President @realDonaldTrump is going to take the stage in the final presidential debate tomorrow…,1005,0,17,rt teamtrump vice president president realdonaldtrump going take stage final presidential debate tomorrow,0.0,1.0,neutral,other
+27,2020-10-21 17:58:17,"RT @TeamTrump: LIVE: Vice President Pence in Portsmouth, NH #NewHampshire
+
+Text VOTE to 88022 https://t.co/CU5U5Pe6cd",1113,0,14,rt teamtrump live vice president pence portsmouth nh newhampshire text vote 88022,0.13636363636363635,0.5,positive,other
+28,2020-10-21 17:45:55,HELLO NEW HAMPSHIRE! In just 13 days we need you to VOTE to re-elect President @realDonaldTrump so he can keep figh… https://t.co/fMdigfyqcv,2970,15248,19,hello new hampshire 13 days need vote president realdonaldtrump keep figh,0.17045454545454544,0.45454545454545453,positive,other
+29,2020-10-21 17:22:06,"RT @TeamTrump: TODAY: Watch Vice President @Mike_Pence's Remarks from Portsmouth, New Hampshire at 1:30 pm ET!
+
+RSVP: https://t.co/i0ojFs2s…",377,0,16,rt teamtrump today watch vice president remarks portsmouth new hampshire pm et rsvp,0.17045454545454544,0.45454545454545453,positive,other
+30,2020-10-21 17:20:05,https://t.co/fcDqiofuQi,442,3043,1,,0.0,0.0,neutral,other
+31,2020-10-21 17:13:05,"RT @CorkyForSenate: PUMPING UP the crowd ahead of Vice President @MikePence’s visit to the Seacoast today!
+
+New Hampshire: we have less tha…",242,0,22,rt corkyforsenate pumping crowd ahead vice president mikepences visit seacoast today new hampshire less tha,-0.015151515151515152,0.2606060606060606,negative,other
+32,2020-10-21 17:02:07,Wheels up to New Hampshire! Let’s Make America Great Again with #FOURMOREYEARS of President @realDonaldTrump in the… https://t.co/A8YD4MwhRS,1027,6922,18,wheels new hampshire lets make america great fourmoreyears president realdonaldtrump,0.48522727272727273,0.6022727272727273,positive,other
+33,2020-10-21 13:38:59,RT @KarenPence: Heading to Pennsylvania today! See you soon! #MAGA 🇺🇸 https://t.co/vaSoqSgdKw,402,0,11,rt karenpence heading pennsylvania today see soon maga,0.0,0.0,neutral,other
+34,2020-10-21 13:38:34,See You Soon New Hampshire! #MAGA 🇺🇸 https://t.co/Qx19UkYi5Y,1065,7939,7,see soon new hampshire maga,0.17045454545454544,0.45454545454545453,positive,other
+35,2020-10-21 01:49:27,RT @realDonaldTrump: https://t.co/UBqPJTpGH1,43840,0,3,rt realdonaldtrump,0.0,0.0,neutral,other
+36,2020-10-21 01:49:23,"RT @realDonaldTrump: THANK YOU PENNSYLVANIA!
+https://t.co/OirJvLcxBu",24053,0,6,rt realdonaldtrump thank pennsylvania,0.0,0.0,neutral,other
+37,2020-10-21 00:57:43,"RT @TeamTrump: President @realDonaldTrump BROUGHT RECEIPTS tonight in #Pennsylvania, plays Biden and Kamala's comments about banning fracki…",3417,0,16,rt teamtrump president realdonaldtrump brought receipts tonight pennsylvania plays biden kamala comments banning fracki,0.0,0.0,neutral,other
+38,2020-10-21 00:57:38,RT @TeamTrump: President @realDonaldTrump in #Pennsylvania: Joe Biden will ban fracking https://t.co/xv79W8sSiS,1045,0,12,rt teamtrump president realdonaldtrump pennsylvania joe biden ban fracking,0.0,0.0,neutral,other
+39,2020-10-21 00:57:12,"RT @TeamTrump: President @realDonaldTrump: With a vaccine, normal life will finally resume and we will have the greatest economic year ever…",1219,0,20,rt teamtrump president realdonaldtrump vaccine normal life finally resume greatest economic year ever,0.33749999999999997,0.7125,positive,other
+40,2020-10-21 00:54:54,RT @TeamTrump: President @realDonaldTrump: With your vote we will keep JOBS in America where they belong! https://t.co/8dITAPogPB,1393,0,17,rt teamtrump president realdonaldtrump vote keep jobs america belong,0.0,0.0,neutral,other
+41,2020-10-21 00:19:17,"RT @WhiteHouse: President @realDonaldTrump is in Pennsylvania this evening, one of many states where his Administration's blue-collar, midd…",1176,0,16,rt whitehouse president realdonaldtrump pennsylvania evening one many states administration midd,0.5,0.5,positive,other
+42,2020-10-21 00:19:07,"If you live in #NE02 and support our military, the American Dream, and the hardworking farmers of the Husker State,… https://t.co/SYhgSX7GbK",892,4809,20,live ne02 support military american dream hardworking farmers husker state,0.012121212121212116,0.19999999999999998,positive,other
+43,2020-10-21 00:17:50,"The people of #UT04 have a pro-life, pro-law and order, and pro-Second Amendment LEADER in @BurgessOwens! #UT04 nee… https://t.co/83v51ilsDt",2032,8920,13,people ut04 order amendment leader burgessowens ut04 nee,0.0,0.0,neutral,other
+44,2020-10-21 00:15:52,".@joniernst has been a champion for farmers, a voice for veterans, and a fighter for working families all across Io… https://t.co/Pu1SGkbTCH",1905,10226,20,joniernst champion farmers voice veterans fighter working families across io,0.0,0.0,neutral,other
+45,2020-10-21 00:14:25,"RT @TeamTrump: LIVE: President Donald Trump in Erie, PA #Pennsylvania #Trump
+
+Text VOTE to 88022 https://t.co/SQQsWTlDkf",2303,0,15,rt teamtrump live president donald trump erie pa pennsylvania trump text vote 88022,0.13636363636363635,0.5,positive,other
+46,2020-10-20 22:16:17,"Under @realDonaldTrump’s leadership, Wisconsin is experiencing the Great American Comeback. Now let’s keep WISCONSI… https://t.co/lGGY5amDM3",1080,5218,16,realdonaldtrumps leadership wisconsin experiencing great american comeback lets keep wisconsi,0.4,0.375,positive,other
+47,2020-10-20 20:12:18,RT @realDonaldTrump: WISCONSIN! Early voting is now underway—let’s #MAGA! https://t.co/gsFSghkmdM,16910,0,10,rt realdonaldtrump wisconsin early voting underwaylets maga,0.125,0.3,positive,other
+48,2020-10-20 20:09:57,Joe Biden and Kamala Harris would devastate American communities. Their radical economic agenda would lead to 4.9 M… https://t.co/CihNbKqtpZ,2588,8435,17,joe biden kamala harris would devastate american communities radical economic agenda would lead,0.1,0.1,positive,other
+49,2020-10-20 19:28:15,"American households stand to lose $6,500 each year under Joe Biden’s radical left agenda. https://t.co/1EYOd8288x",17943,43238,15,american households stand lose year joe bidens radical left agenda,0.0,0.0,neutral,other
+50,2020-10-20 18:57:59,"RT @TrumpWarRoom: Biden says he will raise taxes immediately, even if the economy is struggling https://t.co/wLNAdbjqIO",2013,0,16,rt trumpwarroom biden says raise taxes immediately even economy struggling,0.0,0.0,neutral,other
+51,2020-10-20 18:56:33,RT @GOP: “[Judge Amy Coney Barrett is] phenomenal… She's become a major star in this country… people love her.” -@realDonaldTrump https://t…,1149,0,18,rt gop judge amy coney barrett phenomenal become major star country people love realdonaldtrump,0.28125,0.55,positive,other
+52,2020-10-20 18:56:05,"RT @SenateGOP: There’s no question that Judge Amy Coney Barrett is the *perfect pick* for the United States Supreme Court.
+
+#ConfirmACB 🇺🇸…",875,0,22,rt senategop theres question judge amy coney barrett perfect pick united states supreme court confirmacb,1.0,1.0,positive,other
+53,2020-10-20 18:28:20,RT @KarenPence: In exactly 2 weeks @realDonaldTrump &amp; @Mike_Pence will win #FourMoreYears in the @WhiteHouse to #MakeAmericaGreatAgain! 🇺🇸…,755,0,15,rt karenpence exactly 2 weeks realdonaldtrump win fourmoreyears whitehouse makeamericagreatagain,0.625,0.325,positive,other
+54,2020-10-20 16:30:23,RT @SecondLady: States across the country have led the way in finding employment solutions for our Nation's #MilitarySpouses. Arizona has b…,401,0,20,rt secondlady states across country led way finding employment solutions nation militaryspouses arizona b,0.0,0.0,neutral,other
+55,2020-10-20 13:40:50,https://t.co/yZYsn4c5eg,761,4537,1,,0.0,0.0,neutral,other
+56,2020-10-20 12:54:34,https://t.co/39ExEuaeaX,2252,12612,1,,0.0,0.0,neutral,other
+57,2020-10-20 00:14:58,"RT @realDonaldTrump: THANK YOU TUCSON, ARIZONA! Together, we are going to MAKE AMERICA GREAT AGAIN!! https://t.co/GYB2zG0f4H",43133,0,16,rt realdonaldtrump thank tucson arizona together going make america great,1.0,0.75,positive,other
+58,2020-10-20 00:08:34,https://t.co/Ld22EHMjR9,581,3647,1,,0.0,0.0,neutral,other
+59,2020-10-20 00:05:04,https://t.co/FwEZN94jUE,1026,6916,1,,0.0,0.0,neutral,other
+60,2020-10-19 22:46:45,"RT @TeamTrump: LIVE: President Donald Trump in Tucson, AZ #Arizona
+
+Text VOTE to 88022 https://t.co/VdOKmdCv13",1852,0,14,rt teamtrump live president donald trump tucson az arizona text vote 88022,0.13636363636363635,0.5,positive,other
+61,2020-10-19 22:24:00,"Karen &amp; I send our deepest sympathies to his wife Millie and pray  for God’s comfort for her, the entire Hallow fam… https://t.co/zeEldjy3vq",428,2587,23,karen send deepest sympathies wife millie pray gods comfort entire hallow fam,0.0,0.625,neutral,other
+62,2020-10-19 22:24:00,"With the passing of Ralph Hallow, our Country lost a Giant of American Journalism and I lost a friend. Ralph spent… https://t.co/v0r42yKKRh",854,5619,21,passing ralph hallow country lost giant american journalism lost friend ralph spent,0.0,0.5,neutral,other
+63,2020-10-19 22:23:55,"RT @LouDobbs: Democracy at Stake: VP @Mike_Pence warns if the Democratic Party &amp; radical left win the election, Congress will pack the Supr…",1029,0,21,rt loudobbs democracy stake vp warns democratic party radical left win election congress pack supr,0.4,0.2,positive,election
+64,2020-10-19 22:09:14,"Tens of thousands of enthusiastic Americans are coming out each day to support this Administration, and in 15 days… https://t.co/l8sfRzfxVO",1421,6420,18,tens thousands enthusiastic americans coming day support administration 15 days,0.6,0.9,positive,other
+65,2020-10-19 22:05:23,Joe Biden and Kamala Harris are STILL refusing to answer the question on whether they would pack the Supreme Court.… https://t.co/466O7BHAkP,1141,4855,20,joe biden kamala harris still refusing answer question whether would pack supreme court,0.0,0.0,neutral,other
+66,2020-10-19 21:45:57,THANK YOU PENNSYLVANIA! The Keystone State is ready for FOUR MORE YEARS of President @realDonaldTrump! 🇺🇸 https://t.co/SwYxXyuSVb,2103,11274,16,thank pennsylvania keystone state ready four years president realdonaldtrump,0.4125,0.5,positive,other
+67,2020-10-19 21:43:42,President @realDonaldTrump has done more in the last 4 years for YOU than Joe Biden has done during his decades in… https://t.co/ef6cui93W4,857,4393,20,president realdonaldtrump done last 4 years joe biden done decades,0.25,0.2833333333333333,positive,other
+68,2020-10-19 21:43:39,Pennsylvania: Who do you think can bring this economy all the way back?  A proven job creator or a career politicia… https://t.co/62aSvZK2XO,4585,16878,21,pennsylvania think bring economy way back proven job creator career politicia,0.0,0.0,neutral,other
+69,2020-10-19 21:39:18,"Big Tech is actually trying to censor what Americans read, see, and say. President @realDonaldTrump and I are going… https://t.co/LpsGkdIdEr",1767,6428,19,big tech actually trying censor americans read see say president realdonaldtrump going,0.0,0.1,neutral,other
+70,2020-10-19 21:17:16,"After 8 YEARS of reckless budget cuts to our National Defense when Joe Biden was Vice President, President… https://t.co/qMfNdov1q1",903,4041,17,8 years reckless budget cuts national defense joe biden vice president president,0.0,0.0,neutral,other
+71,2020-10-19 21:11:29,"Joe Biden and Kamala Harris have said time and time again that they want to BAN fracking.
+
+Check it out for yoursel… https://t.co/lgpGEBF1bi",2343,5337,22,joe biden kamala harris said time time want ban fracking check yoursel,0.0,0.0,neutral,other
+72,2020-10-19 20:53:53,RT @LouDobbs: Homestretch: @POTUS and @VP hit the campaign trail hard 2 weeks before Election Day—as China Joe hides in his basement. VP @M…,739,0,21,rt loudobbs homestretch potus vp hit campaign trail hard 2 weeks election dayas china joe hides basement vp,-0.2916666666666667,0.5416666666666666,negative,election
+73,2020-10-19 20:53:21,I’ll be on @LouDobbs LIVE at 5:09PM!Tune in!,1094,6835,9,ill loudobbs live tune,0.17045454545454544,0.5,positive,other
+74,2020-10-19 20:04:16,"RT @cspan: VP @Mike_Pence in New Cumberland, PA - LIVE online here: https://t.co/YKq5TH749R https://t.co/LmNdvqKbl1",232,0,12,rt cspan vp new cumberland pa live online,0.13636363636363635,0.4772727272727273,positive,other
+75,2020-10-19 19:59:02,RT @TeamTrump: President @realDonaldTrump: 15 days from now we are going to win #Arizona and secure FOUR MORE YEARS! https://t.co/X8601XGRyU,1181,0,19,rt teamtrump president realdonaldtrump 15 days going win arizona secure four years,0.6083333333333334,0.5,positive,other
+76,2020-10-19 19:58:58,RT @TeamTrump: President @realDonaldTrump: Our country will NEVER be a socialist country! https://t.co/0I0LqzdmUE,949,0,13,rt teamtrump president realdonaldtrump country never socialist country,0.0,0.0,neutral,other
+77,2020-10-19 19:43:01,"RT @realDonaldTrump: Just arriving in Prescott, what a crowd! I love Arizona!! https://t.co/qssvOznppz",47335,0,13,rt realdonaldtrump arriving prescott crowd love arizona,0.78125,0.6,positive,other
+78,2020-10-19 19:35:21,"RT @TeamTrump: LIVE: President Donald Trump in Prescott, AZ #Arizona
+
+Text VOTE to 88022 https://t.co/1N5DlGObb7",1521,0,14,rt teamtrump live president donald trump prescott az arizona text vote 88022,0.13636363636363635,0.5,positive,other
+79,2020-10-19 19:35:18,"RT @TeamTrump: TODAY: Watch President @realDonaldTrump's Remarks from Prescott, Arizona at 3:00 pm ET!
+
+RSVP: https://t.co/UNzHo4XSpv
+
+#Tea…",493,0,15,rt teamtrump today watch president realdonaldtrump remarks prescott arizona pm et rsvp tea,0.0,0.0,neutral,other
+80,2020-10-19 19:13:18,Just landed in PA! Looking forward to bringing our case directly to the American people of why Pennsylvania and Ame… https://t.co/6wvkIVGP9t,4539,25154,20,landed pa looking forward bringing case directly american people pennsylvania ame,0.05,0.2,positive,other
+81,2020-10-19 18:07:40,https://t.co/3FliKevqyz,518,3060,1,,0.0,0.0,neutral,other
+82,2020-10-19 17:36:29,"Next Stop: Harrisburg, PA! Under President @realDonaldTrump we will have more jobs and more support for the amazing… https://t.co/lAT0C4gARG",1379,7254,18,next stop harrisburg pa president realdonaldtrump jobs support amazing,0.3333333333333333,0.3333333333333333,positive,other
+83,2020-10-19 17:17:29,"For decades, Joe Biden has been a cheerleader for communist China. But when communist China put 30 percent tariffs… https://t.co/u0iRoFVPTA",1170,4341,18,decades joe biden cheerleader communist china communist china put 30 percent tariffs,0.0,0.0,neutral,other
+84,2020-10-19 17:12:52,".@DaleCraftsME is strong on the Second Amendment, jobs and our amazing Military! #ME02 needs to send Dale to Congre… https://t.co/aqG97jkwPj",404,2139,18,dalecraftsme strong second amendment jobs amazing military me02 needs send dale congre,0.22708333333333336,0.43333333333333335,positive,other
+85,2020-10-19 17:10:10,"Under President @realDonaldTrump, Maine gained nearly 18,000 jobs and we protected the states’ lobster industry! Th… https://t.co/lOg71VTv4h",900,4251,15,president realdonaldtrump maine gained nearly jobs protected states lobster industry th,0.125,0.4,positive,other
+86,2020-10-19 17:08:38,"Under President @realDonaldTrump, we BACK THE BLUE! We’re not going to defund the police—not now, not ever!",2466,11710,17,president realdonaldtrump back blue going defund policenot ever,0.0,0.05,neutral,other
+87,2020-10-19 17:08:37,"Joe Biden actually said America is “systemically racist,” and police have an “implicit bias” against minorities. Wh… https://t.co/puzCd5kGpy",10106,26924,17,joe biden actually said america systemically racist police implicit bias minorities wh,0.0,0.1,neutral,other
+88,2020-10-19 17:07:48,"MAINERS FOR TRUMP! It was a great day at Dysart’s Service Center! With just 15 days left, it’s on, Maine! 🇺🇸 https://t.co/gU82ggtpfT",657,3272,22,mainers trump great day dysarts service center 15 days left maine,0.225,0.2833333333333333,positive,other
+89,2020-10-19 16:19:10,RT @TeamTrump: Vice President @Mike_Pence: Do you trust a career politician or a proven jobs creator to revive our economy? https://t.co/pi…,1045,0,20,rt teamtrump vice president trust career politician proven jobs creator revive economy,0.0,0.0,neutral,other
+90,2020-10-19 16:19:01,RT @TeamTrump: Vice President @Mike_Pence on the Joe Biden planning to pack the Supreme Court: “When you’re running for the highest office…,658,0,21,rt teamtrump vice president joe biden planning pack supreme court youre running highest office,0.0,0.0,neutral,other
+91,2020-10-19 16:18:55,RT @TeamTrump: Vice President @Mike_Pence: President @realDonaldTrump and I are not going to let Big Tech block the truth https://t.co/pyni…,1870,0,19,rt teamtrump vice president president realdonaldtrump going let big tech block truth,0.0,0.1,neutral,other
+92,2020-10-19 16:13:42,"RT @TeamTrump: LIVE: Vice President Pence in Hermon, ME #Maine
+
+Text VOTE to 88022 https://t.co/z1IlabO6VD",1133,0,14,rt teamtrump live vice president pence hermon maine text vote 88022,0.13636363636363635,0.5,positive,other
+93,2020-10-19 15:21:46,RT @mainegop: HAPPENING NOW: @Governor_LePage rallies a packed house in Hermon ahead of @VP! Calls on everyone to vote for the @GOP up and…,305,0,22,rt mainegop happening rallies packed house hermon ahead vp calls everyone vote gop,0.0,0.0,neutral,other
+94,2020-10-19 15:21:10,"RT @mainegop: It’s 10:55AM and the line still goes on forever! Mainers are pumped to see Pence! 
+
+It’s a packed house here at Dysart’s to s…",476,0,27,rt mainegop line still goes forever mainers pumped see pence packed house dysarts,0.0,0.0,neutral,other
+95,2020-10-19 15:20:38,"Hello Maine! Let’s Make America Great Again with a pro-jobs, pro-opportunity, and pro-America President in the @WhiteHouse!",4377,23694,15,hello maine lets make america great president whitehouse,1.0,0.75,positive,other
+96,2020-10-19 14:47:09,"RT @TeamTrump: TODAY: Watch Vice President @Mike_Pence's Remarks from Hermon, Maine at 11:30 am ET!
+
+RSVP: https://t.co/yXDIvcV5zL
+
+#TeamTr…",425,0,15,rt teamtrump today watch vice president remarks hermon maine et rsvp teamtr,0.0,0.0,neutral,other
+97,2020-10-19 14:45:05,So many American patriots in Maine ready for four more years of President @realDonaldTrump! See you soon! https://t.co/YLvePlCWsc,4153,20583,18,many american patriots maine ready four years president realdonaldtrump see soon,0.3703125,0.375,positive,other
+98,2020-10-19 14:20:38,MAKE AMERICA GREAT AGAIN! 🇺🇸 https://t.co/gvF0ZGO6JU,4071,23262,5,make america great,1.0,0.75,positive,other
+99,2020-10-19 14:16:03,Wheels up to Maine! 15 days left until we re-elect President @realDonaldTrump for four more years of America FIRST!… https://t.co/H5utet5KBY,1988,11072,18,wheels maine 15 days left president realdonaldtrump four years america first,0.25,0.25,positive,other
+100,2020-10-19 01:08:30,https://t.co/9AwvkAT3kt,646,4178,1,,0.0,0.0,neutral,other
+101,2020-10-19 01:08:20,RT @realDonaldTrump: https://t.co/ResTvtIIr5,25987,0,3,rt realdonaldtrump,0.0,0.0,neutral,other
+102,2020-10-19 01:07:20,https://t.co/AxNuwQpIWc,883,5874,1,,0.0,0.0,neutral,other
+103,2020-10-19 01:05:40,RT @realDonaldTrump: THANK YOU NEVADA! https://t.co/WCfXKZ1Vpu,21946,0,6,rt realdonaldtrump thank nevada,0.0,0.0,neutral,other
+104,2020-10-19 01:05:23,.@NancyMace will never stop fighting for the people of #SC01! Nancy is a proven leader and will vote to protect you… https://t.co/VP1CGm2hgS,776,4289,20,nancymace never stop fighting people sc01 nancy proven leader vote protect,0.0,0.0,neutral,other
+105,2020-10-19 01:01:24,.@leezeldin is a strong Conservative representing the hardworking blue-collar men and women of #NY01 well. We need… https://t.co/yJN2gvBF0u,1042,4841,15,leezeldin strong conservative representing hardworking men women ny01 well need,0.4333333333333333,0.7333333333333333,positive,other
+106,2020-10-19 01:01:12,"RT @TeamTrump: President @realDonaldTrump: When you vote for me, prosperity will surge, taxes will be cut and next year we will have the gr…",1793,0,23,rt teamtrump president realdonaldtrump vote prosperity surge taxes cut next year gr,0.0,0.0,neutral,other
+107,2020-10-19 00:55:14,"#TX21, get out and vote for @chiproytx! He supports our military, stands for our veterans and will fight for the Co… https://t.co/WeOoBwqZN1",2582,12086,20,tx21 get vote chiproytx supports military stands veterans fight co,-0.1,0.1,negative,other
+108,2020-10-19 00:29:31,"RT @TeamTrump: LIVE: President Donald Trump in Carson City, NV #Nevada
+
+Text VOTE to 88022 https://t.co/utGfTFMtXM",2359,0,15,rt teamtrump live president donald trump carson city nv nevada text vote 88022,0.13636363636363635,0.5,positive,other
+109,2020-10-18 22:43:15,"RT @TeamTrump: TONIGHT: Watch President @realDonaldTrump's Remarks from Carson City, Nevada at 7:00 pm ET!
+
+RSVP: https://t.co/7sV1PsiSGY…",682,0,16,rt teamtrump tonight watch president realdonaldtrump remarks carson city nevada pm et rsvp,0.0,0.0,neutral,other
+110,2020-10-18 21:35:44,We’re coming BACK to Pennsylvania tomorrow! Grab your friends and join us at 4PM! https://t.co/UWNiWnzPq9,1834,9592,15,coming back pennsylvania tomorrow grab friends join us 4pm,0.0,0.0,neutral,other
+111,2020-10-18 20:56:34,Join me tomorrow in Maine! Let’s Make America Great Again with four more years of President @realDonaldTrump! https://t.co/rg62ySLahn,1986,10975,19,join tomorrow maine lets make america great four years president realdonaldtrump,0.7125,0.625,positive,other
+112,2020-10-18 17:35:47,RT @WhiteHouse: .@SecondLady visited @VAPhiladelphia to highlight President @realDonaldTrump's recent executive order on addressing mental…,917,0,14,rt whitehouse secondlady visited vaphiladelphia highlight president realdonaldtrump recent executive order addressing mental,0.0,0.25,neutral,other
+113,2020-10-18 00:19:01,"RT @TeamTrump: LIVE: President Donald Trump in Janesville, WI #Wisconsin
+
+Text VOTE to 88022 https://t.co/jxlaJeNDEH",3080,0,14,rt teamtrump live president donald trump janesville wi wisconsin text vote 88022,0.13636363636363635,0.5,positive,other
+114,2020-10-17 23:03:14,"RT @realDonaldTrump: THANK YOU MICHIGAN! 
+https://t.co/gsFSgh2KPc https://t.co/P2shx6YQBq",15593,0,7,rt realdonaldtrump thank michigan,0.0,0.0,neutral,other
+115,2020-10-17 21:18:42,"RT @TeamTrump: LIVE: President Donald Trump in Muskegon, MI #Michigan
+
+Text VOTE to 88022 https://t.co/OVyAXTkyry",2024,0,14,rt teamtrump live president donald trump muskegon mi michigan text vote 88022,0.13636363636363635,0.5,positive,other
+116,2020-10-17 21:03:08,"RT @realDonaldTrump: Getting ready to land in Muskegon, Michigan. Another giant crowd. See you soon! #MAGA",21791,0,16,rt realdonaldtrump getting ready land muskegon michigan another giant crowd see soon maga,0.1,0.75,positive,other
+117,2020-10-17 21:03:01,"RT @WhiteHouse: President @realDonaldTrump is traveling to Michigan, Wisconsin, and Nevada today! https://t.co/CiEiRtGGX4",1874,0,13,rt whitehouse president realdonaldtrump traveling michigan wisconsin nevada today,0.0,0.0,neutral,other
+118,2020-10-17 20:51:30,https://t.co/8yDLmKFfZy,1157,7038,1,,0.0,0.0,neutral,other
+119,2020-10-17 20:20:06,"RT @KarenPence: It was a GREAT day in MATTHEWS, NORTH CAROLINA! THANK YOU!! #MAGA2020 #FOURMOREYEARS 🇺🇸 https://t.co/0u0y060Adn",1004,0,15,rt karenpence great day matthews north carolina thank maga2020 fourmoreyears,1.0,0.75,positive,other
+120,2020-10-17 20:20:04,RT @realDonaldTrump: GIANT RED WAVE COMING!,75987,0,6,rt realdonaldtrump giant red wave coming,0.0,0.5,neutral,other
+121,2020-10-17 18:36:12,"RT @TeamTrump: Vice President @Mike_Pence: Generations of tough, strong Pennsylvania workers mined the coal, worked the railroads, and forg…",952,0,17,rt teamtrump vice president generations tough strong pennsylvania workers mined coal worked railroads forg,0.0222222222222222,0.7833333333333333,positive,other
+122,2020-10-17 18:36:00,"RT @TeamTrump: Vice President @Mike_Pence in #Pennsylvania: Thanks to President @realDonaldTrump’s leadership, Big 10 football is back! htt…",628,0,16,rt teamtrump vice president pennsylvania thanks president realdonaldtrumps leadership big 10 football back htt,0.06666666666666667,0.10000000000000002,positive,other
+123,2020-10-17 18:18:18,THANK YOU PENNSYLVANIA! MAKE AMERICA GREAT AGAIN! 🇺🇸 https://t.co/mbzz0j6dyl,1977,12174,8,thank pennsylvania make america great,1.0,0.75,positive,other
+124,2020-10-17 18:17:46,"After we send President @realDonaldTrump back to the @WhiteHouse, we need Pennsylvania to send @LloydSmuckerPA and… https://t.co/K5Y56ta72b",1915,8638,16,send president realdonaldtrump back whitehouse need pennsylvania send lloydsmuckerpa,0.0,0.0,neutral,other
+125,2020-10-17 18:15:12,"Under President @realDonaldTrump, it has been three and a half years of JOBS, JOBS, JOBS in PA!
+✅ over 200,000 jobs… https://t.co/Ls2Wg54VC9",1097,4995,19,president realdonaldtrump three half years jobs jobs jobs pa jobs,-0.20833333333333331,0.16666666666666666,negative,other
+126,2020-10-17 18:02:34,"Joe Biden and Kamala Harris want to abolish fossil fuels, end fracking and destroy hundreds of thousands of jobs he… https://t.co/vh7p9RcWqJ",1970,7170,20,joe biden kamala harris want abolish fossil fuels end fracking destroy hundreds thousands jobs,-0.2,0.0,negative,other
+127,2020-10-17 17:44:04,RT @TeamTrump: Vice President @Mike_Pence to Joe Biden: The American people deserve a straight answer on court packing https://t.co/zkJkqMT…,1299,0,18,rt teamtrump vice president joe biden american people deserve straight answer court packing,0.1,0.2,positive,other
+128,2020-10-17 17:15:34,RT @TeamTrump: Vice President @Mike_Pence: Joe Biden never lifted a finger for 25 years to reform NAFTA https://t.co/LretvMtOId,1470,0,16,rt teamtrump vice president joe biden never lifted finger 25 years reform nafta,0.0,0.0,neutral,other
+129,2020-10-17 17:13:04,"Joe Biden and Kamala Harris want to ban fracking in Pennsylvania and America, killing American jobs. 
+
+Let them tel… https://t.co/zqNRiH7W17",2413,5661,19,joe biden kamala harris want ban fracking pennsylvania america killing american jobs let tel,0.0,0.0,neutral,other
+130,2020-10-17 17:03:48,"RT @TeamTrump: LIVE: Vice President Pence in Reading, PA #Pennsylvania
+
+Text VOTE to 88022 https://t.co/DntMryVvNl",1239,0,14,rt teamtrump live vice president pence reading pa pennsylvania text vote 88022,0.13636363636363635,0.5,positive,other
+131,2020-10-17 16:47:22,PENNSYLVANIA FOR TRUMP! 🇺🇸 https://t.co/cqWpyDeOiN,3810,21256,4,pennsylvania trump,0.0,0.0,neutral,other
+132,2020-10-17 16:43:59,RT @LloydSmuckerPA: Excited to join @Mike_Pence in Reading today! https://t.co/JM0wv0XO6p,266,0,9,rt lloydsmuckerpa excited join reading today,0.46875,0.75,positive,other
+133,2020-10-17 16:19:51,"RT @TeamTrump: TODAY: Watch Vice President @Mike_Pence's Remarks from Reading, Pennsylvania at 12:30 pm ET!
+
+#TeamTrump https://t.co/H0fbdX…",493,0,15,rt teamtrump today watch vice president remarks reading pennsylvania pm et teamtrump,0.0,0.0,neutral,other
+134,2020-10-17 16:19:49,Just landed in Trump Country! The Keystone State is on fire for President @realDonaldTrump! 🇺🇸,11262,68075,14,landed trump country keystone state fire president realdonaldtrump,0.0,0.0,neutral,other
+135,2020-10-17 15:53:00,"RT @markknoller: VP Pence steps off Marine Two at Joint Base Andrews to board Air Force Two for flight to Reading, PA for campaign rally in…",466,0,25,rt markknoller vp pence steps marine two joint base andrews board air force two flight reading pa campaign rally,-0.8,1.0,negative,other
+136,2020-10-17 15:52:38,"Wheels up to Pennsylvania for a Great day as we Make America Great Again!
+
+See you there! 🇺🇸 https://t.co/gRgUZyTUWI",891,5103,18,wheels pennsylvania great day make america great see,0.9,0.75,positive,other
+137,2020-10-17 14:23:57,"RT @RaymondArroyo: Here’s my complete exclusive with @VP Mike Pence @Worldoverdc @EWTN
+https://t.co/kZGPSsIVOi",188,0,14,rt raymondarroyo heres complete exclusive vp mike pence worldoverdc ewtn,0.1,0.4,positive,other
+138,2020-10-17 13:59:03,"See You Soon Pennsylvania!!#MAGA 🇺🇸
+https://t.co/89bIdEbzIU",2920,16785,6,see soon pennsylvania maga,0.0,0.0,neutral,other
+139,2020-10-17 01:51:18,RT @TeamTrump: President @realDonaldTrump: Joe Biden will pack the court with radical left judges who will shred your Second Amendment http…,1047,0,20,rt teamtrump president realdonaldtrump joe biden pack court radical left judges shred second amendment,0.0,0.0,neutral,other
+140,2020-10-17 01:51:08,RT @TeamTrump: President @realDonaldTrump: Biden wants to substantially raise your taxes https://t.co/DhHNqDKGSi,1379,0,12,rt teamtrump president realdonaldtrump biden wants substantially raise taxes,0.2,0.1,positive,other
+141,2020-10-17 01:50:10,"RT @TeamTrump: LIVE: President Donald Trump in Macon, GA #Georgia
+
+Text VOTE to 88022 https://t.co/GWRxtiRoeM",2196,0,14,rt teamtrump live president donald trump macon ga georgia text vote 88022,0.13636363636363635,0.5,positive,other
+142,2020-10-17 01:47:58,"RT @realDonaldTrump: THANK YOU MACON, GEORGIA!
+https://t.co/jjnVrVgQWY",20726,0,7,rt realdonaldtrump thank macon georgia,0.0,0.0,neutral,other
+143,2020-10-17 01:47:57,https://t.co/AnS0Zz15gG,1218,8069,1,,0.0,0.0,neutral,other
+144,2020-10-16 22:13:40,"RT @realDonaldTrump: THANK YOU OCALA, FLORIDA!
+https://t.co/w6KmVYR6kA",17198,0,7,rt realdonaldtrump thank ocala florida,0.0,0.0,neutral,other
+145,2020-10-16 22:02:27,In North Carolina today and I just had to stop by the @NCGOP to thank the amazing men and women working to re-elect… https://t.co/ZhZmCDtA7p,1232,6986,23,north carolina today stop ncgop thank amazing men women working,0.6000000000000001,0.9,positive,other
+146,2020-10-16 22:02:26,"RT @KarenPence: The Great American Comeback is happening in North Carolina and across the US! North Carolina added 266,900 JOBS over the la…",974,0,21,rt karenpence great american comeback happening north carolina across us north carolina added jobs la,0.4,0.375,positive,other
+147,2020-10-16 21:09:51,"RT @KarenPence: Great to visit the veteran-owned business, Engineering Sales Associates in Charlotte, North Carolina. And great to meet all…",368,0,18,rt karenpence great visit business engineering sales associates charlotte north carolina great meet,0.8,0.75,positive,other
+148,2020-10-16 20:58:36,"RT @TeamTrump: LIVE: President Donald Trump in Ocala, FL #Florida
+
+Text VOTE to 88022 https://t.co/PCY4ZAmB5u",1976,0,14,rt teamtrump live president donald trump ocala fl florida text vote 88022,0.13636363636363635,0.5,positive,other
+149,2020-10-16 20:58:25,"RT @ThomTillis: Thank you, @Mike_Pence, for joining North Carolina conservatives in Selma today! We’re fired up and ready for FOUR MORE YEA…",380,0,21,rt thomtillis thank joining north carolina conservatives selma today fired ready four yea,0.35,0.5,positive,other
+150,2020-10-16 20:19:46,"THANK YOU NORTH CAROLINA! 18 days left, let’s do this! #MAGA 🇺🇸 https://t.co/6lCEVUcuAw",1047,7136,12,thank north carolina 18 days left lets maga,0.0,0.0,neutral,other
+151,2020-10-16 20:17:26,"North Carolina, after you get done re-electing President @realDonaldTrump for four more years, we need you to send… https://t.co/wSZKi5yFrF",1552,8568,17,north carolina get done president realdonaldtrump four years need send,0.5,0.5,positive,other
+152,2020-10-16 20:14:13,"In just three short years under President @realDonaldTrump, businesses large and small created more than 7 MILLION… https://t.co/AHp0xSlayk",694,3782,16,three short years president realdonaldtrump businesses large small created 7 million,0.11607142857142858,0.40714285714285714,positive,other
+153,2020-10-16 20:09:53,"When Joe Biden was Vice President, they tried to tax, spend, and regulate us back into a growing economy. President… https://t.co/rqn8Nxn4HL",8789,33786,20,joe biden vice president tried tax spend regulate us back growing economy president,0.0,0.0,neutral,other
+154,2020-10-16 20:08:04,President @realDonaldTrump has fought for family farmers and ranchers every single day and he will continue to figh… https://t.co/vqDtNt9GTs,633,3631,18,president realdonaldtrump fought family farmers ranchers every single day continue figh,-0.07142857142857142,0.21428571428571427,negative,other
+155,2020-10-16 19:12:42,"RT @TeamTrump: LIVE: Vice President Pence in Selma, NC #NorthCarolina 
+
+Text VOTE to 88022 https://t.co/tgNKIXzmoJ",817,0,14,rt teamtrump live vice president pence selma nc northcarolina text vote 88022,0.13636363636363635,0.5,positive,other
+156,2020-10-16 17:59:07,RT @WhiteHouse: LIVE: President @realDonaldTrump delivers remarks on protecting America's seniors https://t.co/xxZnYB49Zw,4412,0,12,rt whitehouse live president realdonaldtrump delivers remarks protecting america seniors,0.13636363636363635,0.5,positive,other
+157,2020-10-16 17:44:15,Just landed in the Tar Heel State! Excited to be here with @DavidRouzer as we are just 18 days away from FOUR MORE… https://t.co/jQkkpsnLph,1289,7791,22,landed tar heel state excited davidrouzer 18 days away four,0.375,0.75,positive,other
+158,2020-10-16 17:43:33,"RT @TeamTrump: TODAY: Watch Vice President @Mike_Pence's Remarks from Selma, North Carolina at 2:30 pm ET!
+
+RSVP: https://t.co/THbTqvUlvz…",368,0,16,rt teamtrump today watch vice president remarks selma north carolina pm et rsvp,0.0,0.0,neutral,other
+159,2020-10-16 17:22:41,See you soon North Carolina! #MAGA 🇺🇸,3836,31564,6,see soon north carolina maga,0.0,0.0,neutral,other
+160,2020-10-16 15:50:07,https://t.co/P49r0oWEV1,381,2428,1,,0.0,0.0,neutral,other
+161,2020-10-16 15:49:12,"When you’re running for the highest office in the land, Americans deserve to know whether you’re going to respect t… https://t.co/MhBySQgUMY",1580,6258,22,youre running highest office land americans deserve know whether youre going respect,0.0,0.0,neutral,other
+162,2020-10-16 15:47:02,"If Joe Biden was elected President, his plan for Obamacare would lead us toward socialized medicine. With four more… https://t.co/J7q0O8TmUv",2315,8878,19,joe biden elected president plan obamacare would lead us toward socialized medicine four,0.0,0.0,neutral,other
+163,2020-10-16 15:45:57,President @realDonaldTrump nominated Judge Amy Coney Barrett because she is a brilliant jurist who will uphold the… https://t.co/1LZH5MQ5F9,954,4853,17,president realdonaldtrump nominated judge amy coney barrett brilliant jurist uphold,0.9,1.0,positive,other
+164,2020-10-16 12:31:18,https://t.co/SU4IFOoCNU,1119,7375,1,,0.0,0.0,neutral,other
+165,2020-10-16 12:28:02,RT @KarenPence: On my way to North Carolina! See you soon! 🇺🇸#MAGA  https://t.co/WrNVWU9aLb,399,0,13,rt karenpence way north carolina see soon maga,0.0,0.0,neutral,other
+166,2020-10-16 01:45:21,"RT @TeamTrump: President @realDonaldTrump on the coronavirus: The cure cannot be worse than the problem
+
+#TrumpTownHall https://t.co/aJ3zMq…",1756,0,18,rt teamtrump president realdonaldtrump coronavirus cure worse problem trumptownhall,-0.4,0.6,negative,other
+167,2020-10-16 01:45:17,"RT @TeamTrump: President @realDonaldTrump fact checks Savannah Guthrie on coronavirus death rates
+
+#TrumpTownHall https://t.co/HCYOEg4yBP",3601,0,14,rt teamtrump president realdonaldtrump fact checks savannah guthrie coronavirus death rates trumptownhall,0.0,0.0,neutral,other
+168,2020-10-16 01:43:57,"RT @WhiteHouse: The Senate Judiciary Committee wrapped up its first week of confirmation hearings for Judge Amy Coney Barrett today.
+
+They…",2578,0,20,rt whitehouse senate judiciary committee wrapped first week confirmation hearings judge amy coney barrett today,0.25,0.3333333333333333,positive,other
+169,2020-10-16 01:43:19,"RT @TeamTrump: President @realDonaldTrump: Judge Amy Coney Barrett will be an impartial Supreme Court Justice
+
+#TrumpTownHall #ConfirmACB h…",1976,0,17,rt teamtrump president realdonaldtrump judge amy coney barrett impartial supreme court justice trumptownhall confirmacb h,0.0,0.0,neutral,other
+170,2020-10-16 01:39:32,"RT @TeamTrump: President @realDonaldTrump on corporate tax rates: Companies are pouring into the country because of the tax rate, and if Bi…",2076,0,21,rt teamtrump president realdonaldtrump corporate tax rates companies pouring country tax rate bi,0.0,0.0,neutral,other
+171,2020-10-16 01:39:11,"RT @TeamTrump: President @realDonaldTrump on the economy: We are going to have a phenomenal third quarter, we just set a record of 11.4 mil…",1986,0,22,rt teamtrump president realdonaldtrump economy going phenomenal third quarter set record mil,0.25,0.25,positive,other
+172,2020-10-16 00:44:13,"Excited to head to North Carolina tomorrow! 🇺🇸
+
+See you there! https://t.co/OYGBI92qb8",585,4794,11,excited head north carolina tomorrow see,0.5859375,0.75,positive,other
+173,2020-10-16 00:00:55,RT @SecondLady: Honored to join today's roundtable discussion at @VAPhiladelphia to address the rising #MentalHealth needs as the country r…,532,0,19,rt secondlady honored join today roundtable discussion vaphiladelphia address rising mentalhealth needs country r,0.0,0.0,neutral,other
+174,2020-10-15 23:08:24,Honored to speak with Rabbis and key leaders of the Jewish community in Florida today. President @realDonaldTrump a… https://t.co/TV4dbUtHnQ,1159,7144,18,honored speak rabbis key leaders jewish community florida today president realdonaldtrump,0.0,0.5,neutral,other
+175,2020-10-15 23:04:52,THANK YOU FLORIDA! 🇺🇸 https://t.co/viMxe3lRfc,2511,19596,4,thank florida,0.0,0.0,neutral,other
+176,2020-10-15 20:46:14,RT @realDonaldTrump: THANK YOU NORTH CAROLINA! https://t.co/4epZQPjfi7,15654,0,7,rt realdonaldtrump thank north carolina,0.0,0.0,neutral,other
+177,2020-10-15 20:05:42,"Under President @realDonaldTrump, America will NEVER be a socialist Country! https://t.co/ndDAwxTCfG",2789,15201,11,president realdonaldtrump america never socialist country,0.0,0.0,neutral,other
+178,2020-10-15 20:00:39,RT @EquipoTrump: Vice President @Mike_Pence: Under this president's leadership we've reversed the failed policies of the last administratio…,518,0,16,rt equipotrump vice president president leadership reversed failed policies last administratio,-0.25,0.18333333333333332,negative,other
+179,2020-10-15 19:57:25,"I promise you, on behalf of President @realDonaldTrump, we will never rest until Cuba is FREE! In this @WhiteHouse,… https://t.co/L3WZKU0fra",2078,10497,20,promise behalf president realdonaldtrump never rest cuba free whitehouse,0.5,0.8,positive,other
+180,2020-10-15 19:54:24,President @realDonaldTrump has stood for freedom across this hemisphere since day one and he will continue to stand… https://t.co/yKR1IIaCav,2969,14927,18,president realdonaldtrump stood freedom across hemisphere since day one continue stand,0.0,0.0,neutral,other
+181,2020-10-15 19:52:25,RT @EquipoTrump: Vice President @Mike_Pence: In Nicaragua we stood strong against Ortega's regime's brutalization of its citizens and its s…,486,0,18,rt equipotrump vice president nicaragua stood strong ortega regime brutalization citizens,0.4333333333333333,0.7333333333333333,positive,other
+182,2020-10-15 19:49:34,Maximo Alvarez is an inspiration! We will ALWAYS defend the freedoms of every person in this Country because Americ… https://t.co/iN2nrcbHOc,277,1699,19,maximo alvarez inspiration always defend freedoms every person country americ,0.0,0.0,neutral,other
+183,2020-10-15 19:47:50,https://t.co/oWLWxy493B,672,2916,1,,0.0,0.0,neutral,other
+184,2020-10-15 19:47:25,"Standing on the hallowed grounds of Memorial Cubano, it was my honor on behalf of President @realDonaldTrump, to ac… https://t.co/cl61tujHSC",599,3210,19,standing hallowed grounds memorial cubano honor behalf president realdonaldtrump ac,0.0,0.0,neutral,other
+185,2020-10-15 19:45:54,We’ve stood with President @IvanDuque &amp; all Colombians! When former President @AlvaroUribeVel was placed on house a… https://t.co/dYYfsybKW1,418,2004,18,weve stood president ivanduque colombians former president alvarouribevel placed house,0.0,0.0,neutral,other
+186,2020-10-15 18:06:16,RT @NewsHour: WATCH LIVE: Pence holds campaign rally in Miami https://t.co/zLx9AWOoUO,336,0,11,rt newshour watch live pence holds campaign rally miami,0.13636363636363635,0.5,positive,other
+187,2020-10-15 17:31:04,"RT @TeamTrump: LIVE: President Donald Trump in Greenville, NC #NorthCarolina
+
+Text VOTE to 88022 https://t.co/ja6nOOmkkU",1541,0,14,rt teamtrump live president donald trump greenville nc northcarolina text vote 88022,0.13636363636363635,0.5,positive,other
+188,2020-10-15 17:15:51,Hello to the Sunshine State! It’s going to be a great day with some amazing freedom loving patriots! #FOURMOREYEARS 🇺🇸,4157,25091,20,hello sunshine state going great day amazing freedom loving patriots fourmoreyears,0.7166666666666668,0.8666666666666666,positive,other
+189,2020-10-15 16:13:57,"RT @jepence: HOY en Miami, Memorial Cubano 
+
+@EquipoTrump y VP @Mike_Pence manifestarán por la Libertad y Cuatro Años Más por nuestro Presi…",201,0,20,rt jepence hoy en miami memorial cubano equipotrump vp manifestarn por la libertad cuatro aos ms por nuestro presi,0.0,0.0,neutral,other
+190,2020-10-15 14:54:36,"Heading to the Great State of Florida! We’re just 19 days away from Election Day, it’s on America! 🇺🇸 #MAGA
+
+Join u… https://t.co/laTIjTD1U2",985,6173,22,heading great state florida 19 days away election day america maga join u,1.0,0.75,positive,election
+191,2020-10-15 02:38:50,RT @PensacolaMayor: Today I was honored to greet @SecondLady Karen Pence and welcome her to the City of Pensacola. We often recognize membe…,413,0,22,rt pensacolamayor today honored greet secondlady karen pence welcome city pensacola often recognize membe,0.8,0.9,positive,other
+192,2020-10-15 02:13:56,RT @SecondLady: AMAZING flight demonstration from the @BlueAngels at @NASPCOLA. Inspired by the patriotism and recent flyovers across the c…,506,0,19,rt secondlady amazing flight demonstration blueangels naspcola inspired patriotism recent flyovers across c,0.30000000000000004,0.575,positive,other
+193,2020-10-15 02:12:27,"RT @realDonaldTrump: I was thrilled to be back in the American Heartland with thousands of loyal, hardworking IOWA Patriots! 20 days from n…",24003,0,21,rt realdonaldtrump thrilled back american heartland thousands loyal hardworking iowa patriots 20 days n,0.25416666666666665,0.3833333333333333,positive,other
+194,2020-10-15 02:12:21,RT @realDonaldTrump: THANK YOU IOWA! #MAGA https://t.co/cD5CaGu1cr,12713,0,7,rt realdonaldtrump thank iowa maga,0.0,0.0,neutral,other
+195,2020-10-15 02:12:07,RT @SecondLady: Informative meeting with senior military leaders at @NASPCOLA. We discussed the #MilitarySpouse employment &amp; #MentalHealth…,553,0,16,rt secondlady informative meeting senior military leaders naspcola discussed militaryspouse employment mentalhealth,-0.1,0.1,negative,other
+196,2020-10-15 01:45:48,"RT @SecondLady: To our Nation's #MilitarySpouses, YOU are incredible people and sacrifice so much for the strength and readiness of our Arm…",610,0,21,rt secondlady nation militaryspouses incredible people sacrifice much strength readiness arm,0.55,0.55,positive,other
+197,2020-10-14 23:55:28,"RT @TeamTrump: LIVE: President Donald Trump in Des Moines, IA #Iowa
+
+Text VOTE to 88022 https://t.co/pJcITwpquy",2408,0,15,rt teamtrump live president donald trump des moines ia iowa text vote 88022,0.13636363636363635,0.5,positive,other
+198,2020-10-14 23:21:15,RT @SecondLady: Wonderful to meet the @BlueAngels team members at @NASPCOLA! Thank you for your all hard work and dedication. https://t.co/…,378,0,21,rt secondlady wonderful meet blueangels team members naspcola thank hard work dedication,0.35416666666666663,0.7708333333333333,positive,other
